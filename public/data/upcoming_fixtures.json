@@ -418,5 +418,15 @@
     "venue": "Seshego Stadium",
     "status": "STATUS_SCHEDULED",
     "over_under": ""
+  },
+  {
+    "event_id": "755444",
+    "date": "2026-05-10",
+    "time": "15:30 UTC",
+    "home_team": "Sekhukhune United",
+    "away_team": "Kaizer Chiefs",
+    "venue": "Peter Mokaba Stadium",
+    "status": "STATUS_SCHEDULED",
+    "over_under": ""
   }
 ]
