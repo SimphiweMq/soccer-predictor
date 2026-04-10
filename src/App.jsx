@@ -106,11 +106,13 @@ function MatchCard({ item, onClick, selected }) {
   );
 }
 
-function FixtureCard({ fx }) {
+function FixtureCard({ fx, onClick, selected }) {
   return (
-    <div style={{
-      background: C.card, border: `1px solid ${C.border}`,
+    <div onClick={onClick} style={{
+      background: selected ? C.accent + "11" : C.card,
+      border: `1px solid ${selected ? C.accent : C.border}`,
       borderRadius: 10, padding: "0.85rem 1rem",
+      cursor: "pointer", transition: "all 0.15s",
     }}>
       <div style={{ fontSize: 9, color: C.muted, letterSpacing: 2, marginBottom: 6 }}>
         {fx.date} · {fx.time}
@@ -126,11 +128,11 @@ function FixtureCard({ fx }) {
 
 // ── Detail panel ──────────────────────────────────────────────────────────────
 function DetailPanel({ item }) {
-  const fx  = item.fixture;
+  const fx   = item.fixture || item;
   const pred = item.prediction;
-  const hf  = item.home_form;
-  const af  = item.away_form;
-  const h2h = item.h2h || [];
+  const hf   = item.home_form;
+  const af   = item.away_form;
+  const h2h  = item.h2h || [];
 
   const card = { background: C.card, border: `1px solid ${C.border}`, borderRadius: 12, padding: "1.1rem" };
   const lbl  = { fontSize: 9, letterSpacing: 2, color: C.muted, textTransform: "uppercase", marginBottom: "0.6rem", display: "block" };
@@ -139,9 +141,9 @@ function DetailPanel({ item }) {
     <div style={{ display: "flex", flexDirection: "column", gap: "1rem" }}>
 
       {/* Match header */}
-      <div style={{ ...card, borderColor: C.accent }}>
+      <div style={{ ...card, borderColor: pred ? C.accent : C.border }}>
         <div style={{ fontSize: 9, color: C.muted, letterSpacing: 2, marginBottom: 10 }}>
-          {fx.date} · {fx.time} · {fx.venue}
+          {fx.date} · {fx.time}{fx.venue ? ` · ${fx.venue}` : ""}
         </div>
         <div style={{ display: "flex", alignItems: "center", justifyContent: "space-between" }}>
           <div>
@@ -161,76 +163,94 @@ function DetailPanel({ item }) {
         )}
       </div>
 
-      {/* 4 markets */}
-      <div>
-        <span style={lbl}>AI predictions · claude haiku</span>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "0.75rem" }}>
-          <PredBadge label="Match Result"     {...pred?.match_result}  />
-          <PredBadge label="Both Teams Score" {...pred?.btts}          />
-          <PredBadge label="Total Goals"      {...pred?.total_goals}   />
-          <PredBadge label="Total Corners"    {...pred?.total_corners} />
+      {/* No analysis placeholder */}
+      {!pred && (
+        <div style={{ ...card, textAlign: "center", padding: "2rem" }}>
+          <p style={{ color: C.sub, fontSize: 13, margin: "0 0 6px", fontWeight: 700 }}>No AI analysis yet</p>
+          <p style={{ color: C.muted, fontSize: 11, margin: 0 }}>
+            Run the prediction pipeline to generate analysis for this fixture.
+          </p>
         </div>
-      </div>
+      )}
 
-      {/* Form */}
-      <div style={card}>
-        <span style={lbl}>team form — last {hf?.played ?? "?"} games</span>
-        <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1.25rem" }}>
-          {[
-            { team: fx.home_team, form: hf, color: C.accent,  role: "Home" },
-            { team: fx.away_team, form: af, color: C.orange,  role: "Away" },
-          ].map(({ team, form, color, role }) => (
-            <div key={team}>
-              <div style={{ fontSize: 11, fontWeight: 700, color, marginBottom: 6 }}>
-                {team} <span style={{ color: C.muted, fontWeight: 400 }}>({role})</span>
-              </div>
-              <FormBar form={form?.form} />
-              <div style={{ marginTop: 10, display: "flex", flexDirection: "column", gap: 4 }}>
-                {[
-                  ["Goals Scored",   form?.avg_goals_scored],
-                  ["Goals Conceded", form?.avg_goals_conceded],
-                  ["Corners For",    form?.avg_corners_for],
-                  ["Clean Sheets",   form?.clean_sheets],
-                  ["BTTS",           form?.btts_count   != null ? `${form.btts_count}/${form.played}`   : null],
-                  ["Over 2.5",       form?.over25_count != null ? `${form.over25_count}/${form.played}` : null],
-                ].map(([l, v]) => v != null && (
-                  <div key={l} style={{ display: "flex", justifyContent: "space-between", fontSize: 10 }}>
-                    <span style={{ color: C.muted }}>{l}</span>
-                    <span style={{ color: C.text, fontWeight: 700 }}>{v}</span>
-                  </div>
-                ))}
-              </div>
-            </div>
-          ))}
+      {/* 4 prediction markets */}
+      {pred && (
+        <div>
+          <span style={lbl}>AI predictions · claude haiku</span>
+          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "0.75rem" }}>
+            <PredBadge label="Match Result"     {...pred.match_result}  />
+            <PredBadge label="Both Teams Score" {...pred.btts}          />
+            <PredBadge label="Total Goals"      {...pred.total_goals}   />
+            <PredBadge label="Total Corners"    {...pred.total_corners} />
+          </div>
         </div>
-      </div>
+      )}
+
+      {/* Team form */}
+      {pred && (
+        <div style={card}>
+          <span style={lbl}>team form — last {hf?.played ?? "?"} games</span>
+          <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "1.25rem" }}>
+            {[
+              { team: fx.home_team, form: hf, color: C.accent, role: "Home" },
+              { team: fx.away_team, form: af, color: C.orange, role: "Away" },
+            ].map(({ team, form, color, role }) => (
+              <div key={team}>
+                <div style={{ fontSize: 11, fontWeight: 700, color, marginBottom: 6 }}>
+                  {team} <span style={{ color: C.muted, fontWeight: 400 }}>({role})</span>
+                </div>
+                <FormBar form={form?.form} />
+                <div style={{ marginTop: 10, display: "flex", flexDirection: "column", gap: 4 }}>
+                  {[
+                    ["Goals Scored",   form?.avg_goals_scored],
+                    ["Goals Conceded", form?.avg_goals_conceded],
+                    ["Corners For",    form?.avg_corners_for],
+                    ["Clean Sheets",   form?.clean_sheets],
+                    ["BTTS",           form?.btts_count   != null ? `${form.btts_count}/${form.played}`   : null],
+                    ["Over 2.5",       form?.over25_count != null ? `${form.over25_count}/${form.played}` : null],
+                  ].map(([l, v]) => v != null && (
+                    <div key={l} style={{ display: "flex", justifyContent: "space-between", fontSize: 10 }}>
+                      <span style={{ color: C.muted }}>{l}</span>
+                      <span style={{ color: C.text, fontWeight: 700 }}>{v}</span>
+                    </div>
+                  ))}
+                </div>
+              </div>
+            ))}
+          </div>
+        </div>
+      )}
 
       {/* H2H */}
-      <div style={card}>
-        <span style={lbl}>head to head — last {h2h.length} meetings</span>
-        {h2h.length === 0
-          ? <p style={{ color: C.muted, fontSize: 12, margin: 0 }}>No H2H data in dataset.</p>
-          : [...h2h].reverse().map((r, i) => {
-              const winner = r.result === "H" ? r.home_team : r.result === "A" ? r.away_team : "Draw";
-              const wColor = r.result === "D" ? C.yellow : winner === fx.home_team ? C.accent : C.orange;
-              return (
-                <div key={i} style={{ display: "flex", alignItems: "center", gap: 8, padding: "6px 0", borderBottom: `1px solid ${C.border}` }}>
-                  <span style={{ fontSize: 10, color: C.muted, width: 82, flexShrink: 0 }}>{r.date}</span>
-                  <span style={{ fontSize: 11, flex: 1, color: C.text }}>
-                    {r.home_team} <strong>{r.home_goals}–{r.away_goals}</strong> {r.away_team}
-                  </span>
-                  <span style={{ fontSize: 10, color: wColor, fontWeight: 700, width: 30, textAlign: "right" }}>
-                    {r.result === "D" ? "D" : winner === fx.home_team ? "H" : "A"}
-                  </span>
-                </div>
-              );
-            })
-        }
-      </div>
+      {pred && (
+        <div style={card}>
+          <span style={lbl}>head to head — last {h2h.length} meetings</span>
+          {h2h.length === 0
+            ? <p style={{ color: C.muted, fontSize: 12, margin: 0 }}>No H2H data in dataset.</p>
+            : [...h2h].reverse().map((r, i) => {
+                const winner = r.result === "H" ? r.home_team : r.result === "A" ? r.away_team : "Draw";
+                const wColor = r.result === "D" ? C.yellow : winner === fx.home_team ? C.accent : C.orange;
+                return (
+                  <div key={i} style={{ display: "flex", alignItems: "center", gap: 8, padding: "6px 0", borderBottom: `1px solid ${C.border}` }}>
+                    <span style={{ fontSize: 10, color: C.muted, width: 82, flexShrink: 0 }}>{r.date}</span>
+                    <span style={{ fontSize: 11, flex: 1, color: C.text }}>
+                      {r.home_team} <strong>{r.home_goals}–{r.away_goals}</strong> {r.away_team}
+                    </span>
+                    <span style={{ fontSize: 10, color: wColor, fontWeight: 700, width: 30, textAlign: "right" }}>
+                      {r.result === "D" ? "D" : winner === fx.home_team ? "H" : "A"}
+                    </span>
+                  </div>
+                );
+              })
+          }
+        </div>
+      )}
 
-      <p style={{ margin: 0, fontSize: 10, color: C.muted, fontStyle: "italic", textAlign: "center", lineHeight: 1.6 }}>
-        AI analysis is data-driven, not a guarantee. Soccer involves inherent unpredictability.
-      </p>
+      {pred && (
+        <p style={{ margin: 0, fontSize: 10, color: C.muted, fontStyle: "italic", textAlign: "center", lineHeight: 1.6 }}>
+          AI analysis is data-driven, not a guarantee. Soccer involves inherent unpredictability.
+        </p>
+      )}
     </div>
   );
 }
@@ -322,7 +342,7 @@ export default function SoccerPredictor() {
             <>
               <div style={{ fontSize: 9, color: C.muted, letterSpacing: 2, padding: "0.25rem 0" }}>AI ANALYSED · {filteredPreds.length}</div>
               {filteredPreds.map((item, i) => (
-                <MatchCard key={i} item={item} selected={selected === item} onClick={() => setSelected(item)} />
+                <MatchCard key={i} item={item} selected={selected?.fixture?.event_id === item.fixture.event_id} onClick={() => setSelected(item)} />
               ))}
             </>
           )}
@@ -330,7 +350,14 @@ export default function SoccerPredictor() {
           {filteredFx.length > 0 && (
             <>
               <div style={{ fontSize: 9, color: C.muted, letterSpacing: 2, padding: "0.5rem 0 0.25rem" }}>UPCOMING · {filteredFx.length}</div>
-              {filteredFx.map((fx, i) => <FixtureCard key={i} fx={fx} />)}
+              {filteredFx.map((fx, i) => (
+                <FixtureCard
+                  key={i}
+                  fx={fx}
+                  selected={selected?.event_id === fx.event_id}
+                  onClick={() => setSelected(fx)}
+                />
+              ))}
             </>
           )}
         </div>
