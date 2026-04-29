@@ -1,93 +1,13 @@
 [
   {
-    "event_id": "755421",
-    "date": "2026-04-24",
-    "time": "17:30 UTC",
-    "home_team": "Durban City",
-    "away_team": "Orbit College",
-    "venue": "Chatsworth Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 1.5
-  },
-  {
-    "event_id": "755422",
-    "date": "2026-04-24",
-    "time": "17:30 UTC",
-    "home_team": "Golden Arrows",
-    "away_team": "Siwelele",
-    "venue": "King Goodwill Zwelithini Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 2.5
-  },
-  {
-    "event_id": "755426",
-    "date": "2026-04-25",
-    "time": "13:00 UTC",
-    "home_team": "Amazulu",
-    "away_team": "Chippa United",
-    "venue": "Moses Mabhida Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 2.5
-  },
-  {
-    "event_id": "755424",
-    "date": "2026-04-25",
-    "time": "15:30 UTC",
-    "home_team": "Sekhukhune United",
-    "away_team": "Marumo Gallants",
-    "venue": "Peter Mokaba Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 1.5
-  },
-  {
-    "event_id": "755423",
-    "date": "2026-04-26",
-    "time": "13:00 UTC",
-    "home_team": "Orlando Pirates",
-    "away_team": "Kaizer Chiefs",
-    "venue": "FNB Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 2.5
-  },
-  {
-    "event_id": "755428",
-    "date": "2026-04-26",
-    "time": "13:00 UTC",
-    "home_team": "Polokwane City",
-    "away_team": "Stellenbosch",
-    "venue": "Old Peter Mokaba Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 1.5
-  },
-  {
-    "event_id": "755427",
-    "date": "2026-04-26",
-    "time": "13:00 UTC",
-    "home_team": "TS Galaxy",
-    "away_team": "Magesi FC",
-    "venue": "Mbombela Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 1.5
-  },
-  {
-    "event_id": "755425",
-    "date": "2026-04-26",
-    "time": "15:30 UTC",
-    "home_team": "Richards Bay",
-    "away_team": "Mamelodi Sundowns",
-    "venue": "Richards Bay Stadium",
-    "status": "STATUS_SCHEDULED",
-    "over_under": 2.5
-  },
-  {
     "event_id": "755322",
     "date": "2026-04-29",
     "time": "17:30 UTC",
     "home_team": "Polokwane City",
     "away_team": "Mamelodi Sundowns",
-    "venue": "Old Peter Mokaba Stadium",
+    "venue": "Seshego Stadium",
     "status": "STATUS_SCHEDULED",
-    "over_under": ""
+    "over_under": 2.5
   },
   {
     "event_id": "755356",
@@ -315,7 +235,7 @@
     "time": "13:00 UTC",
     "home_team": "Siwelele",
     "away_team": "Magesi FC",
-    "venue": "Lucas Masterpieces Moripe Stadium",
+    "venue": "Dr. Petrus Molemela Stadium",
     "status": "STATUS_SCHEDULED",
     "over_under": ""
   },
@@ -375,7 +295,7 @@
     "time": "13:00 UTC",
     "home_team": "Kaizer Chiefs",
     "away_team": "Chippa United",
-    "venue": "FNB Stadium",
+    "venue": "Moses Mabhida Stadium",
     "status": "STATUS_SCHEDULED",
     "over_under": ""
   },
