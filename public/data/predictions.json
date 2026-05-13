@@ -8499,27 +8499,27 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "H2H shows 3 draws in last 5 meetings with Kaizer Chiefs unbeaten (2W-3D). While Chiefs form is superior (6W-3D-1L), AmaZulu's home record (DWDWD) and Amazulu's defensive stability (1.0 goals conceded avg) suggest a resilient display.\n\n---\n\n##"
+        "reasoning": "H2H shows 3 draws in last 5 meetings (60% draw rate). Kaizer Chiefs' superior form (6W in last 10) is countered by Amazulu's strong home record (3 clean sheets) and defensive stability (1.0 goals conceded average).\n\n##"
       },
       "btts": {
         "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "50% of AmaZulu's recent games and 40% of Chiefs' fixtures saw both teams score. H2H pattern supports this (3 of last 5 meetings had both teams scoring), despite Chiefs' strong 0.6 goals-conceded average away.\n\n---\n\n##"
+        "reasoning": "40% of Kaizer Chiefs' recent matches featured both teams scoring, and Amazulu shows 50% BTTS rate. H2H average of"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "Medium",
-        "reasoning": "Combined average scoring is modest (AmaZulu 1.2 + Chiefs 1.6 = 2.8 goals), but Chiefs' exceptional away defensive record (0.6 conceded) and both sides' low over-2.5 frequency (AmaZulu 40%, Chiefs 20%) lean defensive. H2H average is 3.0, creating slight counterweight.\n\n---\n\n##"
+        "reasoning": "Kaizer Chiefs have delivered only 2/10 matches over 2.5 goals and concede just 0.6 goals per game away. H2H trends favour low-scoring contests despite the 3.0 average, with recent fixtures showing tactical balance.\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
-        "confidence": "Medium",
-        "reasoning": "AmaZulu average 3.9 corners for at home; Chiefs average 4.3 corners for away. Combined projection (~8.2) sits close to threshold, but home venue advantage and AmaZulu facing 4.6 opposition corners (suggesting attacking pressure) support exceeding 9."
+        "confidence": "High",
+        "reasoning": "Combined average corners: Amazulu 3.9 + Chiefs 4.3 = 8.2 per side, equalling 8.2 total. However, H2H matches typically generate extended play patterns typical of competitive SA Premiership fixtures, pushing totals above 9.5 with reasonable consistency.\n\n════════════════════════════════════════\n\n##"
       },
-      "summary": "**Key driver:** Kaizer Chiefs' exceptional away form (6W-3D-1L with 0.6 goals conceded) versus AmaZulu's resilient home record and H2H draw tendency creates a low-scoring stalemate scenario.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven assessments based on provided statistics only. They are NOT guarantees. Match outcomes depend on tactical decisions, player availability, injuries, weather, and momentum—variables not captured here. Bet responsibly.",
-      "raw_response": "# MATCH ANALYSIS: AmaZulu vs Kaizer Chiefs\n## 2026-05-16 | Moses Mabhida Stadium\n\n---\n\n## 1. MATCH RESULT\n**Predict:** Draw  \n**Confidence:** Medium  \n**Reasoning:** H2H shows 3 draws in last 5 meetings with Kaizer Chiefs unbeaten (2W-3D). While Chiefs form is superior (6W-3D-1L), AmaZulu's home record (DWDWD) and Amazulu's defensive stability (1.0 goals conceded avg) suggest a resilient display.\n\n---\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes  \n**Confidence:** Medium  \n**Reasoning:** 50% of AmaZulu's recent games and 40% of Chiefs' fixtures saw both teams score. H2H pattern supports this (3 of last 5 meetings had both teams scoring), despite Chiefs' strong 0.6 goals-conceded average away.\n\n---\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** Medium  \n**Reasoning:** Combined average scoring is modest (AmaZulu 1.2 + Chiefs 1.6 = 2.8 goals), but Chiefs' exceptional away defensive record (0.6 conceded) and both sides' low over-2.5 frequency (AmaZulu 40%, Chiefs 20%) lean defensive. H2H average is 3.0, creating slight counterweight.\n\n---\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** Medium  \n**Reasoning:** AmaZulu average 3.9 corners for at home; Chiefs average 4.3 corners for away. Combined projection (~8.2) sits close to threshold, but home venue advantage and AmaZulu facing 4.6 opposition corners (suggesting attacking pressure) support exceeding 9.5.\n\n---\n\n## 5. SUMMARY\n**Key driver:** Kaizer Chiefs' exceptional away form (6W-3D-1L with 0.6 goals conceded) versus AmaZulu's resilient home record and H2H draw tendency creates a low-scoring stalemate scenario.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven assessments based on provided statistics only. They are NOT guarantees. Match outcomes depend on tactical decisions, player availability, injuries, weather, and momentum—variables not captured here. Bet responsibly."
+      "summary": "**Key insight:** Kaizer Chiefs' recent dominance (6 wins, 5 clean sheets) is substantially negated by Amazulu's home fortress and H2H draw tendency (60%), suggesting a stalemate is the most likely outcome.\n\n---\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics provided. They are **not guarantees** and do not account for team news, injuries, weather, or tactical adjustments. Use this analysis as one input among many in your decision-making process.",
+      "raw_response": "# AMAZULU vs KAIZER CHIEFS - BETTING ANALYSIS\n**2026-05-16 | Moses Mabhida Stadium**\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** H2H shows 3 draws in last 5 meetings (60% draw rate). Kaizer Chiefs' superior form (6W in last 10) is countered by Amazulu's strong home record (3 clean sheets) and defensive stability (1.0 goals conceded average).\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes\n**Confidence:** Medium\n**Reasoning:** 40% of Kaizer Chiefs' recent matches featured both teams scoring, and Amazulu shows 50% BTTS rate. H2H average of 3.0 total goals suggests offensive contributions from both sides, though Chiefs' defensive strength (5 clean sheets) provides some caution.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** Medium\n**Reasoning:** Kaizer Chiefs have delivered only 2/10 matches over 2.5 goals and concede just 0.6 goals per game away. H2H trends favour low-scoring contests despite the 3.0 average, with recent fixtures showing tactical balance.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** High\n**Reasoning:** Combined average corners: Amazulu 3.9 + Chiefs 4.3 = 8.2 per side, equalling 8.2 total. However, H2H matches typically generate extended play patterns typical of competitive SA Premiership fixtures, pushing totals above 9.5 with reasonable consistency.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\n**Key insight:** Kaizer Chiefs' recent dominance (6 wins, 5 clean sheets) is substantially negated by Amazulu's home fortress and H2H draw tendency (60%), suggesting a stalemate is the most likely outcome.\n\n---\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics provided. They are **not guarantees** and do not account for team news, injuries, weather, or tactical adjustments. Use this analysis as one input among many in your decision-making process."
     },
-    "analysed_at": "2026-05-11 10:47"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -8712,27 +8712,27 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "H2H shows 3 draws in last 5 meetings with Chippa United's recent home form inconsistent (1W-2D-1L). Golden Arrows' defensive strength (1.1 avg goals conceded, 4 clean sheets) should limit Chippa's attacking threat (1.0 avg goals scored).\n\n##"
+        "reasoning": "H2H shows 3 draws in last 5 meetings with Chippa winning only at home. Golden Arrows' strong defensive record (4 clean sheets in 10) and poor away scoring (0.9 goals/game) suggests a low-scoring stalemate.\n\n##"
       },
       "btts": {
         "predict": "No",
         "confidence": "Medium",
-        "reasoning": "Only 50% of Golden Arrows' away games feature both teams scoring (5/10), and recent H2H shows low-scoring trends (0-0 results in Feb & Apr 2026). Chippa's 80% BTTS rate is offset by Arrows' defensive solidity.\n\n##"
+        "reasoning": "Golden Arrows concede only 1.1 goals/game and have 4 clean sheets in 10. Only 50% of Golden Arrows' away games saw both teams score, despite Chippa's 80% BTTS rate.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "Medium",
-        "reasoning": "H2H average is just 1.2 goals per game, and Golden Arrows' last 10 shows only 40% Over 2.5 games. While Chippa lean toward Over 2.5 (60%), Arrows' superior defence (1.1 conceded avg) should suppress total output.\n\n##"
+        "reasoning": "H2H average of just 1.2 goals per game is the strongest indicator. Golden Arrows' defensive discipline (1.1 goals conceded) combined with their weak away attack (0.9 goals) supports a low-scoring match.\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
-        "confidence": "High",
-        "reasoning": "Combined average corners: 4.7 +"
+        "confidence": "Medium",
+        "reasoning": "Combined average corners from both teams = 9.7 per match (Chippa 4.7 + Arrows"
       },
-      "summary": "The decisive factor is Golden Arrows' elite defensive record (4 clean sheets in 10; 1.1 goals conceded average) combined with Chippa's low attacking output (1.0 goals), both supported by H2H evidence of low-scoring draws—all pointing toward a constrained, defensive contest.\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics. They are NOT guarantees. Match outcomes depend on numerous unmeasurable variables (form, injuries, motivation, referee decisions, weather). Use this analysis as ONE input among multiple factors in your decision-making. Bet responsibly.",
-      "raw_response": "# MATCH ANALYSIS: Chippa United vs Golden Arrows\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** H2H shows 3 draws in last 5 meetings with Chippa United's recent home form inconsistent (1W-2D-1L). Golden Arrows' defensive strength (1.1 avg goals conceded, 4 clean sheets) should limit Chippa's attacking threat (1.0 avg goals scored).\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Only 50% of Golden Arrows' away games feature both teams scoring (5/10), and recent H2H shows low-scoring trends (0-0 results in Feb & Apr 2026). Chippa's 80% BTTS rate is offset by Arrows' defensive solidity.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** Medium-High\n**Reasoning:** H2H average is just 1.2 goals per game, and Golden Arrows' last 10 shows only 40% Over 2.5 games. While Chippa lean toward Over 2.5 (60%), Arrows' superior defence (1.1 conceded avg) should suppress total output.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** High\n**Reasoning:** Combined average corners: 4.7 + 5.0 = 9.7 per match. Golden Arrows average 5.0 corners for per game, while Chippa generates 4.7 at home—total expected output exceeds 9.5.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\nThe decisive factor is Golden Arrows' elite defensive record (4 clean sheets in 10; 1.1 goals conceded average) combined with Chippa's low attacking output (1.0 goals), both supported by H2H evidence of low-scoring draws—all pointing toward a constrained, defensive contest.\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics. They are NOT guarantees. Match outcomes depend on numerous unmeasurable variables (form, injuries, motivation, referee decisions, weather). Use this analysis as ONE input among multiple factors in your decision-making. Bet responsibly."
+      "summary": "**Key Driver:** Golden Arrows' exceptional defensive record (1.1 goals conceded/game, 4 clean sheets in 10) combined with H2H trend of low-scoring outcomes (avg 1.2 goals) strongly suggests a tight, low-scoring draw rather than open play.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These predictions are data-driven assessments based on historical statistics and are NOT guaranteed outcomes. Soccer involves variables beyond statistical analysis (injuries, form changes, tactical adjustments). Use these insights as one factor among many in your decision-making. Bet responsibly.",
+      "raw_response": "# CHIPPA UNITED vs GOLDEN ARROWS | Match Analysis\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** H2H shows 3 draws in last 5 meetings with Chippa winning only at home. Golden Arrows' strong defensive record (4 clean sheets in 10) and poor away scoring (0.9 goals/game) suggests a low-scoring stalemate.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Golden Arrows concede only 1.1 goals/game and have 4 clean sheets in 10. Only 50% of Golden Arrows' away games saw both teams score, despite Chippa's 80% BTTS rate.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** Medium\n**Reasoning:** H2H average of just 1.2 goals per game is the strongest indicator. Golden Arrows' defensive discipline (1.1 goals conceded) combined with their weak away attack (0.9 goals) supports a low-scoring match.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Combined average corners from both teams = 9.7 per match (Chippa 4.7 + Arrows 5.0). Despite defensive systems limiting goals, both sides generate consistent corner activity.\n\n## 5. SUMMARY\n**Key Driver:** Golden Arrows' exceptional defensive record (1.1 goals conceded/game, 4 clean sheets in 10) combined with H2H trend of low-scoring outcomes (avg 1.2 goals) strongly suggests a tight, low-scoring draw rather than open play.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These predictions are data-driven assessments based on historical statistics and are NOT guaranteed outcomes. Soccer involves variables beyond statistical analysis (injuries, form changes, tactical adjustments). Use these insights as one factor among many in your decision-making. Bet responsibly."
     },
-    "analysed_at": "2026-05-11 10:47"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -8813,27 +8813,27 @@
       "match_result": {
         "predict": "Home Win",
         "confidence": "High",
-        "reasoning": "Orlando Pirates are in exceptional form (7W-3D from last 10) with a dominant home record, while Durban City are struggling away (1W-4L from last 5 away games). The previous H2H meeting saw Pirates win 2-0.\n\n##"
+        "reasoning": "Orlando Pirates are in exceptional form (7W-3D in last 10) with 6 clean sheets, while Durban City are struggling away (1W-4L) and concede 1.2 goals per game. The H2H shows Pirates' dominance (2-0 win), establishing a clear pattern.\n\n##"
       },
       "btts": {
         "predict": "No",
         "confidence": "Medium",
-        "reasoning": "Durban City average only 0.8 goals scored per game and have scored in just 4/10 matches, while Pirates have kept 6 clean sheets in their last 10 games. The previous meeting was also a 2-0 shutout.\n\n##"
+        "reasoning": "Pirates concede just 0.5 goals per game at home with 6 clean sheets in 10, while Durban City average only 0.8 goals scored away. Only 40% of Durban City's matches feature both teams scoring.\n\n##"
       },
       "total_goals": {
         "predict": "Over 2.5",
         "confidence": "Medium",
-        "reasoning": "Orlando Pirates average 2.7 goals at home and have gone over 2.5 in 6/10 matches despite their defensive strength. Durban City's poor away form (1.2 goals conceded per match) suggests they'll likely concede multiple goals.\n\n##"
+        "reasoning": "Orlando Pirates average 2.7 goals scored at home and 60% of their matches exceed 2.5 goals. However, Durban City's poor away record (0.8 goals scored) and defensive vulnerabilities (conceding 1.2 per game) create uncertainty in the exact total.\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "High",
-        "reasoning": "Orlando Pirates average 8.3 corners for at home, and combined with Durban City's balanced corner average of 4.9, the combined total (13.2 expected) strongly suggests surpassing 9."
+        "reasoning": "Orlando Pirates average 8.3 corners for at home, and combined with Durban City's 4.9 corners average, the fixture total approaches 13+ corners. Pirates' dominance should generate sustained pressure and corner opportunities.\n\n════════════════════════════════════════\n\n##"
       },
-      "summary": "Orlando Pirates' elite home form (7W-3D with 6 clean sheets) versus Durban City's dire away record (1W-4L) makes this a heavily one-sided fixture.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven statistical assessments based on historical performance and do not guarantee match outcomes. Soccer remains unpredictable; injury absences, tactical adjustments, and in-match events can significantly alter results. Use these predictions as one input among multiple factors in your decision-making.",
-      "raw_response": "# MATCH ANALYSIS: Orlando Pirates vs Durban City\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Home Win\n**Confidence:** High\n**Reasoning:** Orlando Pirates are in exceptional form (7W-3D from last 10) with a dominant home record, while Durban City are struggling away (1W-4L from last 5 away games). The previous H2H meeting saw Pirates win 2-0.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Durban City average only 0.8 goals scored per game and have scored in just 4/10 matches, while Pirates have kept 6 clean sheets in their last 10 games. The previous meeting was also a 2-0 shutout.\n\n## 3. TOTAL GOALS\n**Predict:** Over 2.5\n**Confidence:** Medium\n**Reasoning:** Orlando Pirates average 2.7 goals at home and have gone over 2.5 in 6/10 matches despite their defensive strength. Durban City's poor away form (1.2 goals conceded per match) suggests they'll likely concede multiple goals.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** High\n**Reasoning:** Orlando Pirates average 8.3 corners for at home, and combined with Durban City's balanced corner average of 4.9, the combined total (13.2 expected) strongly suggests surpassing 9.5. Pirates' dominant home possession typically generates consistent corner counts.\n\n## 5. SUMMARY\nOrlando Pirates' elite home form (7W-3D with 6 clean sheets) versus Durban City's dire away record (1W-4L) makes this a heavily one-sided fixture.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven statistical assessments based on historical performance and do not guarantee match outcomes. Soccer remains unpredictable; injury absences, tactical adjustments, and in-match events can significantly alter results. Use these predictions as one input among multiple factors in your decision-making."
+      "summary": "Orlando Pirates' exceptional home form (7 wins in last 10, 6 clean sheets) versus Durban City's poor away record (1 win in last 5) is the decisive factor—the data overwhelmingly favours a comfortable Pirates victory.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Actual match results depend on numerous variables including team selection, injuries, weather, and in-game dynamics. Use this analysis as one factor in your decision-making process.",
+      "raw_response": "# MATCH ANALYSIS: Orlando Pirates vs Durban City\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Home Win\n**Confidence:** High\n**Reasoning:** Orlando Pirates are in exceptional form (7W-3D in last 10) with 6 clean sheets, while Durban City are struggling away (1W-4L) and concede 1.2 goals per game. The H2H shows Pirates' dominance (2-0 win), establishing a clear pattern.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Pirates concede just 0.5 goals per game at home with 6 clean sheets in 10, while Durban City average only 0.8 goals scored away. Only 40% of Durban City's matches feature both teams scoring.\n\n## 3. TOTAL GOALS\n**Predict:** Over 2.5\n**Confidence:** Medium\n**Reasoning:** Orlando Pirates average 2.7 goals scored at home and 60% of their matches exceed 2.5 goals. However, Durban City's poor away record (0.8 goals scored) and defensive vulnerabilities (conceding 1.2 per game) create uncertainty in the exact total.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** High\n**Reasoning:** Orlando Pirates average 8.3 corners for at home, and combined with Durban City's 4.9 corners average, the fixture total approaches 13+ corners. Pirates' dominance should generate sustained pressure and corner opportunities.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\nOrlando Pirates' exceptional home form (7 wins in last 10, 6 clean sheets) versus Durban City's poor away record (1 win in last 5) is the decisive factor—the data overwhelmingly favours a comfortable Pirates victory.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Actual match results depend on numerous variables including team selection, injuries, weather, and in-game dynamics. Use this analysis as one factor in your decision-making process."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -9026,27 +9026,27 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "H2H shows 2 draws in 5 meetings with an even record (1W-2D-2L for home side). Both teams show defensive solidity at home (Richards Bay: 4 clean sheets in 10; Sekhukhune: 2 in 10) but struggle away, with Sekhukhune showing particularly poor away form (1W-1D-3L).\n\n##"
+        "reasoning": "H2H record shows 2 draws in 5 meetings with evenly matched recent form (Richards Bay 3W-4D-3L vs Sekhukhune 2W-4D-4L). Richards Bay's home advantage is offset by Sekhukhune's superior away record (1W-4 matches) and better goal-scoring average (1.0 vs 0.8).\n\n────────────────────────────────────────\n\n###"
       },
       "btts": {
         "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "Sekhukhune has scored in 6/10 recent games and averages 1.0 goals per match. Richards Bay's home defensive record (0.9 conceded) suggests vulnerability, particularly with Sekhukhune's attacking consistency. H2H average of 2.6 goals supports competitive scoring.\n\n##"
+        "reasoning": "Sekhukhune scored in 6/10 recent games, and Richards Bay's home defence is vulnerable (0.9 conceded per game). H2H average of 2.6 goals per match strongly suggests both teams will find the net.\n\n────────────────────────────────────────\n\n###"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "Medium",
-        "reasoning": "Both teams average low-scoring outputs (Richards Bay: 0.8 scored, Sekhukhune: 1.0 scored). Only 3/10 Richards Bay home games and 4/10 Sekhukhune games exceeded 2.5 goals. H2H leans marginal at 2.6 average, but recent form favours defensive solidity.\n\n##"
+        "reasoning": "Richards Bay scored only 0.8 goals per game at home (3 over 10 games), and despite Sekhukhune's 1.0 average, only 3/10 Richards Bay matches and 4/10 Sekhukhune matches exceeded 2.5 goals. Low-scoring pattern is dominant.\n\n────────────────────────────────────────\n\n###"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "Medium",
-        "reasoning": "Combined average corners: 4.6 (Richards Bay) + 3.9 (Sekhukhune) = 8.5 per team match-up. Richards Bay's home average of 4.6 for corners combined with Sekhukhune's defensive pressure (4.2 against) creates sufficient corner opportunities. Close call but slight lean upward.\n\n════════════════════════════════════════\n\n##"
+        "reasoning": "Combined average corners (Richards Bay 4.6 + Sekhukhune 3.9) totals 8.5, which is borderline. However, Richards Bay concedes"
       },
-      "summary": "The key driver is both teams' defensive inconsistency away from home, coupled with low-scoring form—suggesting a low-goal draw is the most probable outcome despite BTTS potential.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed predictions. Match outcomes depend on form fluctuations, injuries, tactical changes, and in-game dynamics not captured here. Use for reference only.",
-      "raw_response": "# MATCH ANALYSIS: Richards Bay vs Sekhukhune United\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n\n**Reasoning:** H2H shows 2 draws in 5 meetings with an even record (1W-2D-2L for home side). Both teams show defensive solidity at home (Richards Bay: 4 clean sheets in 10; Sekhukhune: 2 in 10) but struggle away, with Sekhukhune showing particularly poor away form (1W-1D-3L).\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes\n**Confidence:** Medium\n\n**Reasoning:** Sekhukhune has scored in 6/10 recent games and averages 1.0 goals per match. Richards Bay's home defensive record (0.9 conceded) suggests vulnerability, particularly with Sekhukhune's attacking consistency. H2H average of 2.6 goals supports competitive scoring.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** Medium\n\n**Reasoning:** Both teams average low-scoring outputs (Richards Bay: 0.8 scored, Sekhukhune: 1.0 scored). Only 3/10 Richards Bay home games and 4/10 Sekhukhune games exceeded 2.5 goals. H2H leans marginal at 2.6 average, but recent form favours defensive solidity.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n\n**Reasoning:** Combined average corners: 4.6 (Richards Bay) + 3.9 (Sekhukhune) = 8.5 per team match-up. Richards Bay's home average of 4.6 for corners combined with Sekhukhune's defensive pressure (4.2 against) creates sufficient corner opportunities. Close call but slight lean upward.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\nThe key driver is both teams' defensive inconsistency away from home, coupled with low-scoring form—suggesting a low-goal draw is the most probable outcome despite BTTS potential.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed predictions. Match outcomes depend on form fluctuations, injuries, tactical changes, and in-game dynamics not captured here. Use for reference only."
+      "summary": "**Key Insight:** Richards Bay's home record shows defensive solidity (4 clean sheets in 10) but blunt attack (0.8 goals), while Sekhukhune's away inconsistency and vulnerability defensively (1.4 conceded) create conditions for a low-scoring draw.\n\n────────────────────────────────────────\n\n**⚠️ DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Match conditions, team selection, injuries, and other variables can significantly impact results.",
+      "raw_response": "# RICHARDS BAY vs SEKHUKHUNE UNITED\n## Match Analysis & Predictions\n\n────────────────────────────────────────\n\n### 1. MATCH RESULT\n**Predict:** Draw  \n**Confidence:** Medium  \n**Reasoning:** H2H record shows 2 draws in 5 meetings with evenly matched recent form (Richards Bay 3W-4D-3L vs Sekhukhune 2W-4D-4L). Richards Bay's home advantage is offset by Sekhukhune's superior away record (1W-4 matches) and better goal-scoring average (1.0 vs 0.8).\n\n────────────────────────────────────────\n\n### 2. BOTH TEAMS TO SCORE\n**Predict:** Yes  \n**Confidence:** Medium  \n**Reasoning:** Sekhukhune scored in 6/10 recent games, and Richards Bay's home defence is vulnerable (0.9 conceded per game). H2H average of 2.6 goals per match strongly suggests both teams will find the net.\n\n────────────────────────────────────────\n\n### 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** Medium  \n**Reasoning:** Richards Bay scored only 0.8 goals per game at home (3 over 10 games), and despite Sekhukhune's 1.0 average, only 3/10 Richards Bay matches and 4/10 Sekhukhune matches exceeded 2.5 goals. Low-scoring pattern is dominant.\n\n────────────────────────────────────────\n\n### 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** Medium  \n**Reasoning:** Combined average corners (Richards Bay 4.6 + Sekhukhune 3.9) totals 8.5, which is borderline. However, Richards Bay concedes 5.9 corners per game, indicating Sekhukhune will create attacking pressure to push the total above 9.5.\n\n────────────────────────────────────────\n\n### 5. SUMMARY\n**Key Insight:** Richards Bay's home record shows defensive solidity (4 clean sheets in 10) but blunt attack (0.8 goals), while Sekhukhune's away inconsistency and vulnerability defensively (1.4 conceded) create conditions for a low-scoring draw.\n\n────────────────────────────────────────\n\n**⚠️ DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Match conditions, team selection, injuries, and other variables can significantly impact results."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -9127,27 +9127,27 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "Siwelele shows stability at home (3D in last 5) with a strong defensive record (5 clean sheets in 10), while Magesi struggles away (only 1W in 4). However, Magesi's superior away clean sheets (3/10) and their recent H2H victory suggest they'll frustrate the hosts rather than lose.\n\n##"
+        "reasoning": "Siwelele's home form shows 3 draws in last 5 games (60%), while Magesi arrives in poor form (5L in last 10). However, Magesi's previous H2H victory and Siwelele's inconsistency (6 draws total) suggest a stalemate is likely.\n\n---\n\n##"
       },
       "btts": {
-        "predict": "No",
+        "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "Both teams scored in only 4/10 games for each side, and Siwelele's home record shows 5 clean sheets in their last 10—indicating strong defensive discipline. Magesi's away form (DLLD) suggests limited attacking threat away from home.\n\n##"
+        "reasoning": "Both teams achieved BTTS in 4/10 games each. Siwelele concedes 1.2 goals average at home, and Magesi scores 1.2 away—suggesting both are likely to find the net in a competitive match.\n\n---\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "High",
-        "reasoning": "Siwelele averages just 1.1 goals scored at home with only 2/10 games over 2.5 goals. Magesi averages 1.2 goals across all matches, and their away record is particularly blunt. Combined average output heavily favors a low-scoring encounter.\n\n##"
+        "reasoning": "Siwelele shows Over 2.5 in only 2/10 games and averages 1.1 goals scored. Combined with Magesi's defensive struggles (1.6 conceded) but low-scoring away record, the data points strongly toward a low-scoring contest.\n\n---\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "Medium",
-        "reasoning": "Siwelele averages 4.4 corners for at home, while Magesi averages 4.0—totaling 8.4 expected. Though slightly below 9.5, Siwelele's opposition corners ("
+        "reasoning": "Siwelele averages 4.4 corners for; Magesi averages 4.0 for—totaling approximately 8.4 corners. While this sits slightly below 9.5, home-field advantage and competitive pressure typically generate additional set pieces, providing marginal support for the over.\n\n---\n\n##"
       },
-      "summary": "**Key insight:** Siwelele's exceptional home defensive record (5 clean sheets/10) combined with Magesi's poor away form (1W/4, 5L/10) strongly indicates a low-scoring, defensively dominant match—favoring Under 2.5 goals and limiting Both Teams to Score probability.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven statistical assessments based on provided fixture information, not guaranteed outcomes. Match results depend on in-form player availability, tactical adjustments, and unpredictable in-game events. Use this analysis as one input among multiple factors when making betting decisions.",
-      "raw_response": "# MATCH ANALYSIS: Siwelele vs Magesi FC\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** Siwelele shows stability at home (3D in last 5) with a strong defensive record (5 clean sheets in 10), while Magesi struggles away (only 1W in 4). However, Magesi's superior away clean sheets (3/10) and their recent H2H victory suggest they'll frustrate the hosts rather than lose.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Both teams scored in only 4/10 games for each side, and Siwelele's home record shows 5 clean sheets in their last 10—indicating strong defensive discipline. Magesi's away form (DLLD) suggests limited attacking threat away from home.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** Siwelele averages just 1.1 goals scored at home with only 2/10 games over 2.5 goals. Magesi averages 1.2 goals across all matches, and their away record is particularly blunt. Combined average output heavily favors a low-scoring encounter.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Siwelele averages 4.4 corners for at home, while Magesi averages 4.0—totaling 8.4 expected. Though slightly below 9.5, Siwelele's opposition corners (5.8 against) push the combined figure closer to the threshold in a match likely to be tight and compressed in play.\n\n## 5. SUMMARY\n**Key insight:** Siwelele's exceptional home defensive record (5 clean sheets/10) combined with Magesi's poor away form (1W/4, 5L/10) strongly indicates a low-scoring, defensively dominant match—favoring Under 2.5 goals and limiting Both Teams to Score probability.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven statistical assessments based on provided fixture information, not guaranteed outcomes. Match results depend on in-form player availability, tactical adjustments, and unpredictable in-game events. Use this analysis as one input among multiple factors when making betting decisions."
+      "summary": "**Key Driver:** Siwelele's extreme low-scoring tendency (only 20% of games exceed 2.5 goals) combined with Magesi's poor away form (25% win rate, 1.2 GPG) strongly suggests an Under 2.5 goals outcome.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven probabilistic assessments based on historical SA Betway Premiership statistics, *not guarantees*. Fixture-specific factors (injuries, tactical changes, motivation) are not incorporated. Use this analysis as one input among multiple considerations. Bet responsibly.",
+      "raw_response": "# SIWELELE vs MAGESI FC - BETTING ANALYSIS\n**2026-05-16 | Dr. Petrus Molemela Stadium**\n\n---\n\n## 1. MATCH RESULT\n**Predict:** Draw  \n**Confidence:** Medium  \n**Reasoning:** Siwelele's home form shows 3 draws in last 5 games (60%), while Magesi arrives in poor form (5L in last 10). However, Magesi's previous H2H victory and Siwelele's inconsistency (6 draws total) suggest a stalemate is likely.\n\n---\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes  \n**Confidence:** Medium  \n**Reasoning:** Both teams achieved BTTS in 4/10 games each. Siwelele concedes 1.2 goals average at home, and Magesi scores 1.2 away—suggesting both are likely to find the net in a competitive match.\n\n---\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** High  \n**Reasoning:** Siwelele shows Over 2.5 in only 2/10 games and averages 1.1 goals scored. Combined with Magesi's defensive struggles (1.6 conceded) but low-scoring away record, the data points strongly toward a low-scoring contest.\n\n---\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** Medium  \n**Reasoning:** Siwelele averages 4.4 corners for; Magesi averages 4.0 for—totaling approximately 8.4 corners. While this sits slightly below 9.5, home-field advantage and competitive pressure typically generate additional set pieces, providing marginal support for the over.\n\n---\n\n## 5. SUMMARY\n**Key Driver:** Siwelele's extreme low-scoring tendency (only 20% of games exceed 2.5 goals) combined with Magesi's poor away form (25% win rate, 1.2 GPG) strongly suggests an Under 2.5 goals outcome.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven probabilistic assessments based on historical SA Betway Premiership statistics, *not guarantees*. Fixture-specific factors (injuries, tactical changes, motivation) are not incorporated. Use this analysis as one input among multiple considerations. Bet responsibly."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -9228,27 +9228,27 @@
       "match_result": {
         "predict": "Home Win",
         "confidence": "Medium",
-        "reasoning": "Stellenbosch shows superior recent form (2W vs 2W for Orbit) and holds a 1-0 H2H advantage. However, their home record is mixed (DWWL), and Orbit's away defensive record (3 clean sheets in last 10) limits confidence.\n\n##"
+        "reasoning": "Stellenbosch's superior form (2W-5D-3L vs 2W-4D-4L) and recent home record (1W-2D-1L) gives them the edge. Head-to-head precedent shows a 1-0 advantage, though Orbit College's defensive solidity (3 clean sheets) limits clear victory margins.\n\n##"
       },
       "btts": {
         "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "Both teams scored in 6/10 Stellenbosch games and 5/10 Orbit games. Stellenbosch's average concession of 1.0 goals and Orbit's 0.7 scoring average suggest both sides are likely to register, supported by H2H history (3 goals in last meeting).\n\n##"
+        "reasoning": "60% of Stellenbosch's last 10 games saw both teams score, and Orbit College's away form (WLDDW) includes multiple scoring matches. Combined, they average 1.6 goals per team, supporting a BTTS outcome.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "Medium",
-        "reasoning": "Combined averages yield ~1.6 goals per match (Stellenbosch 0.9 + Orbit 0.7). Only 3/10 Stellenbosch games and 4/10 Orbit games exceeded 2.5 goals, indicating a low-scoring tendency for both sides.\n\n##"
+        "reasoning": "Only 30% of Stellenbosch's games exceeded 2.5 goals (avg 0.9 scored), and Orbit College averages just 0.7 goals scored away from home. Combined average of 1.6 goals per match strongly favours a low-scoring affair.\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "High",
         "reasoning": "Stellenbosch averages"
       },
-      "summary": "Stellenbosch's home advantage and superior recent consistency suggest a narrow home win in a match likely to stay under 2.5 goals but generate double-digit corners.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on provided statistics only. They are not guarantees of outcome. Soccer involves inherent unpredictability—injuries, tactical adjustments, referee decisions, and momentum shifts can significantly impact results. Use this analysis as one component of informed decision-making, not as certainty.",
-      "raw_response": "# STELLENBOSCH vs ORBIT COLLEGE - MATCH ANALYSIS\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Home Win\n**Confidence:** Medium\n**Reasoning:** Stellenbosch shows superior recent form (2W vs 2W for Orbit) and holds a 1-0 H2H advantage. However, their home record is mixed (DWWL), and Orbit's away defensive record (3 clean sheets in last 10) limits confidence.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes\n**Confidence:** Medium\n**Reasoning:** Both teams scored in 6/10 Stellenbosch games and 5/10 Orbit games. Stellenbosch's average concession of 1.0 goals and Orbit's 0.7 scoring average suggest both sides are likely to register, supported by H2H history (3 goals in last meeting).\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** Medium\n**Reasoning:** Combined averages yield ~1.6 goals per match (Stellenbosch 0.9 + Orbit 0.7). Only 3/10 Stellenbosch games and 4/10 Orbit games exceeded 2.5 goals, indicating a low-scoring tendency for both sides.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** High\n**Reasoning:** Stellenbosch averages 5.1 corners at home while Orbit concedes 5.2 away corners. Combined average is 9.1 corners, placing this prediction marginally above the threshold with strong supporting metrics from both teams' corner patterns.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\nStellenbosch's home advantage and superior recent consistency suggest a narrow home win in a match likely to stay under 2.5 goals but generate double-digit corners.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on provided statistics only. They are not guarantees of outcome. Soccer involves inherent unpredictability—injuries, tactical adjustments, referee decisions, and momentum shifts can significantly impact results. Use this analysis as one component of informed decision-making, not as certainty."
+      "summary": "Stellenbosch's superior attacking output and home advantage, combined with Orbit College's defensive vulnerabilities to corner plays, creates a low-scoring home win with elevated set-piece activity.\n\n**DISCLAIMER:** These are data-driven assessments based on historical performance. They are **not guarantees** and betting outcomes depend on numerous unpredictable factors including player form, injuries, tactical adjustments, and match-day circumstances. Bet responsibly.",
+      "raw_response": "# STELLENBOSCH vs ORBIT COLLEGE - MATCH ANALYSIS\n**2026-05-16 | Danie Craven Stadium**\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Home Win  \n**Confidence:** Medium  \n**Reasoning:** Stellenbosch's superior form (2W-5D-3L vs 2W-4D-4L) and recent home record (1W-2D-1L) gives them the edge. Head-to-head precedent shows a 1-0 advantage, though Orbit College's defensive solidity (3 clean sheets) limits clear victory margins.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes  \n**Confidence:** Medium  \n**Reasoning:** 60% of Stellenbosch's last 10 games saw both teams score, and Orbit College's away form (WLDDW) includes multiple scoring matches. Combined, they average 1.6 goals per team, supporting a BTTS outcome.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** Medium  \n**Reasoning:** Only 30% of Stellenbosch's games exceeded 2.5 goals (avg 0.9 scored), and Orbit College averages just 0.7 goals scored away from home. Combined average of 1.6 goals per match strongly favours a low-scoring affair.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** High  \n**Reasoning:** Stellenbosch averages 5.1 corners at home while Orbit College concedes 5.2 corners away—combined projection reaches 10.3 corners. This is the most reliable data point in the fixture.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\nStellenbosch's superior attacking output and home advantage, combined with Orbit College's defensive vulnerabilities to corner plays, creates a low-scoring home win with elevated set-piece activity.\n\n**DISCLAIMER:** These are data-driven assessments based on historical performance. They are **not guarantees** and betting outcomes depend on numerous unpredictable factors including player form, injuries, tactical adjustments, and match-day circumstances. Bet responsibly."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -9385,27 +9385,27 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "H2H record shows 2 draws in last 3 meetings with only 1.0 avg goals per game. Polokwane's recent home form is weak (1W-2L in last 4), while Marumo's away record mirrors this defensiveness (WLLD pattern).\n\n##"
+        "reasoning": "Head-to-head shows 2 draws in last 3 meetings with only 1.0 average goals per game. Polokwane's home form is mixed (LDWL) while Marumo struggles away (WLLD), suggesting a low-scoring stalemate is likely.\n\n---\n\n###"
       },
       "btts": {
         "predict": "No",
         "confidence": "Medium",
-        "reasoning": "Polokwane scored in only 2/10 recent games (20% rate), while H2H shows both teams scored in just 0/3 meetings. Low-scoring pattern dominates this fixture.\n\n##"
+        "reasoning": "Polokwane has 5 clean sheets in 10 games and only 2/10 matches saw both teams score. Marumo's away record shows WLLD with limited attacking consistency, making a mutually-scoring match unlikely despite their 6/10 BTTS rate.\n\n---\n\n###"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "High",
-        "reasoning": "Combined average goals: 0.4 + 0.8 = 1.2 per match. H2H average is just 1.0 goal per game, with Polokwane showing only 2/10 games over 2.5 goals. Strong evidence of low-scoring encounters.\n\n##"
+        "reasoning": "Both teams average very low goal output (Polokwane 0.4, Marumo 0.8 scored), and H2H averages just 1.0 goals per game. Only 2/10 of Polokwane's matches and 4/10 of Marumo's exceeded 2.5 goals, indicating a tight, low-scoring contest.\n\n---\n\n###"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "Medium",
-        "reasoning": "Polokwane averages 4.2 corners for +"
+        "reasoning": "Combined average corners (Polokwane 4.2 + Marumo 4.4 = 8.6) slightly favors the under, but both teams concede regularly ("
       },
-      "summary": "The decisive factor is Polokwane's extremely low scoring output (0.4 goals/game) combined with a historically low-scoring H2H record (1.0 goals/game average), strongly suggesting a tight, low-scoring match favoring Under 2.5 goals.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Actual match results depend on numerous variables including team fitness, tactical adjustments, weather conditions, and referee decisions. Use this analysis as one component of your decision-making process only.",
-      "raw_response": "# MATCH ANALYSIS: Polokwane City vs Marumo Gallants\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** H2H record shows 2 draws in last 3 meetings with only 1.0 avg goals per game. Polokwane's recent home form is weak (1W-2L in last 4), while Marumo's away record mirrors this defensiveness (WLLD pattern).\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Polokwane scored in only 2/10 recent games (20% rate), while H2H shows both teams scored in just 0/3 meetings. Low-scoring pattern dominates this fixture.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** Combined average goals: 0.4 + 0.8 = 1.2 per match. H2H average is just 1.0 goal per game, with Polokwane showing only 2/10 games over 2.5 goals. Strong evidence of low-scoring encounters.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Polokwane averages 4.2 corners for + 5.7 against = 9.9 corners per game. Marumo averages 4.4 + 5.4 = 9.8, suggesting both teams combined typically generate 9.8-9.9 corners, just above the 9.5 threshold.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\nThe decisive factor is Polokwane's extremely low scoring output (0.4 goals/game) combined with a historically low-scoring H2H record (1.0 goals/game average), strongly suggesting a tight, low-scoring match favoring Under 2.5 goals.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Actual match results depend on numerous variables including team fitness, tactical adjustments, weather conditions, and referee decisions. Use this analysis as one component of your decision-making process only."
+      "summary": "**Key Insight:** This fixture is defined by defensive solidity and low-scoring trends—Polokwane's 5 clean sheets and historical H2H pattern of 2 draws at 1.0 goals per game strongly indicate Under 2.5 Goals and a Draw as the most probable outcomes.\n\n---\n\n**CONFIDENCE HIERARCHY:**  \n1. Under 2.5 Goals (High)  \n2. Draw (Medium)  \n3. No BTTS (Medium)  \n4. Over 9.5 Corners (Medium)",
+      "raw_response": "# POLOKWANE CITY vs MARUMO GALLANTS\n## Data-Driven Predictions | 2026-05-16\n\n**DISCLAIMER:** These are statistical assessments based on provided data, not guaranteed outcomes.\n\n---\n\n### 1. MATCH RESULT\n**Predict:** Draw  \n**Confidence:** Medium  \n**Reasoning:** Head-to-head shows 2 draws in last 3 meetings with only 1.0 average goals per game. Polokwane's home form is mixed (LDWL) while Marumo struggles away (WLLD), suggesting a low-scoring stalemate is likely.\n\n---\n\n### 2. BOTH TEAMS TO SCORE\n**Predict:** No  \n**Confidence:** Medium  \n**Reasoning:** Polokwane has 5 clean sheets in 10 games and only 2/10 matches saw both teams score. Marumo's away record shows WLLD with limited attacking consistency, making a mutually-scoring match unlikely despite their 6/10 BTTS rate.\n\n---\n\n### 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** High  \n**Reasoning:** Both teams average very low goal output (Polokwane 0.4, Marumo 0.8 scored), and H2H averages just 1.0 goals per game. Only 2/10 of Polokwane's matches and 4/10 of Marumo's exceeded 2.5 goals, indicating a tight, low-scoring contest.\n\n---\n\n### 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** Medium  \n**Reasoning:** Combined average corners (Polokwane 4.2 + Marumo 4.4 = 8.6) slightly favors the under, but both teams concede regularly (5.7 and 5.4 respectively), suggesting defensive pressure will generate corner opportunities approaching 10.\n\n---\n\n### 5. SUMMARY\n**Key Insight:** This fixture is defined by defensive solidity and low-scoring trends—Polokwane's 5 clean sheets and historical H2H pattern of 2 draws at 1.0 goals per game strongly indicate Under 2.5 Goals and a Draw as the most probable outcomes.\n\n---\n\n**CONFIDENCE HIERARCHY:**  \n1. Under 2.5 Goals (High)  \n2. Draw (Medium)  \n3. No BTTS (Medium)  \n4. Over 9.5 Corners (Medium)"
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -9486,27 +9486,27 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "Both teams show similar recent form (Durban City 2W-4D-4L vs AmaZulu 3W-5D-2L) with a strong draw tendency across their records. AmaZulu's superior away record and previous H2H victory provide slight edge, but Durban City's home advantage and identical clean sheet count (3/10) suggest a competitive, low-scoring stalemate is likely.\n\n##"
+        "reasoning": "Both teams show similar defensive solidity (3 clean sheets each in last 10) and defensive records (Durban 1.2 conceded, AmaZulu 1.0 conceded). AmaZulu's superior form (3W-5D-2L vs 2W-4D-4L) is offset by Durban's home advantage, with draws dominating both teams' recent records.\n\n##"
       },
       "btts": {
-        "predict": "No",
+        "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "While AmaZulu show BTTS in 5/10 games (50%), Durban City only register it in 4/10 (40%). Critically, the previous H2H meeting ended 1-0, and both sides average modest goals (0.8 and 1.2 respectively), suggesting defensive solidity will prevail.\n\n##"
+        "reasoning": "40% of Durban's games and 50% of AmaZulu's games feature both teams scoring. AmaZulu average 1.2 goals scored, while Durban concedes 1.2 per game on average, creating a balanced attacking-defensive dynamic.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "High",
-        "reasoning": "Only 2/10 Durban City matches and 4/10 AmaZulu matches exceeded 2.5 goals—both below 50%. Combined average output is just 2.0 goals per team fixture, and the H2H average of 1.0 goal further reinforces an expectation of low-scoring play at Chatsworth Stadium.\n\n##"
+        "reasoning": "Only 20% of Durban's last 10 games exceeded 2.5 goals, and just 40% for AmaZulu. Combined average output is low (Durban 0.8 + AmaZulu 1.2 = 2.0), and their H2H meeting produced just 1 goal total.\n\n##"
       },
       "total_corners": {
-        "predict": "Over 9.5",
+        "predict": "Under 9.5",
         "confidence": "Medium",
-        "reasoning": "Durban City average 4.9 corners for at home while AmaZulu average 4.6 against, totaling approximately 9."
+        "reasoning": "Combined average corners is 9.8 (Durban 4.9 + AmaZulu 3.9), sitting just above the threshold. AmaZulu's away record shows lower corner generation (3.9 avg), suggesting a tight match with limited attacking pressure.\n\n════════════════════════════════════════\n\n##"
       },
-      "summary": "**Key Driver:** Both teams' reluctance to exceed 2.5 goals (40-50% frequency) combined with Durban City's modest 0.8 goals-per-game output strongly indicates a low-scoring affair.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven statistical assessments based on provided metrics, not guaranteed outcomes. Soccer involves unpredictable variables. Use for informed decision-making only.",
-      "raw_response": "# MATCH ANALYSIS: Durban City vs AmaZulu | 2026-05-23\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** Both teams show similar recent form (Durban City 2W-4D-4L vs AmaZulu 3W-5D-2L) with a strong draw tendency across their records. AmaZulu's superior away record and previous H2H victory provide slight edge, but Durban City's home advantage and identical clean sheet count (3/10) suggest a competitive, low-scoring stalemate is likely.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** While AmaZulu show BTTS in 5/10 games (50%), Durban City only register it in 4/10 (40%). Critically, the previous H2H meeting ended 1-0, and both sides average modest goals (0.8 and 1.2 respectively), suggesting defensive solidity will prevail.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** Only 2/10 Durban City matches and 4/10 AmaZulu matches exceeded 2.5 goals—both below 50%. Combined average output is just 2.0 goals per team fixture, and the H2H average of 1.0 goal further reinforces an expectation of low-scoring play at Chatsworth Stadium.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Durban City average 4.9 corners for at home while AmaZulu average 4.6 against, totaling approximately 9.5. The combined corner averages (4.9 + 3.9 = 8.8) sit marginally below the threshold, but home advantage and tactical intensity could push this slightly over in a tight match.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\n**Key Driver:** Both teams' reluctance to exceed 2.5 goals (40-50% frequency) combined with Durban City's modest 0.8 goals-per-game output strongly indicates a low-scoring affair.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven statistical assessments based on provided metrics, not guaranteed outcomes. Soccer involves unpredictable variables. Use for informed decision-making only."
+      "summary": "The critical insight is **low-scoring pattern dominance**: both teams rarely exceed 2.5 goals (20-40% frequency), making a draw with under 2.5 goals the most statistically supported outcome.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven probability assessments, not guaranteed predictions. Match outcomes depend on form changes, injuries, tactical adjustments, and in-game events not captured in historical statistics. Use responsibly alongside other analysis.",
+      "raw_response": "# MATCH ANALYSIS: Durban City vs AmaZulu\n**2026-05-23 | Chatsworth Stadium**\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** Both teams show similar defensive solidity (3 clean sheets each in last 10) and defensive records (Durban 1.2 conceded, AmaZulu 1.0 conceded). AmaZulu's superior form (3W-5D-2L vs 2W-4D-4L) is offset by Durban's home advantage, with draws dominating both teams' recent records.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes\n**Confidence:** Medium\n**Reasoning:** 40% of Durban's games and 50% of AmaZulu's games feature both teams scoring. AmaZulu average 1.2 goals scored, while Durban concedes 1.2 per game on average, creating a balanced attacking-defensive dynamic.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** Only 20% of Durban's last 10 games exceeded 2.5 goals, and just 40% for AmaZulu. Combined average output is low (Durban 0.8 + AmaZulu 1.2 = 2.0), and their H2H meeting produced just 1 goal total.\n\n## 4. TOTAL CORNERS\n**Predict:** Under 9.5\n**Confidence:** Medium\n**Reasoning:** Combined average corners is 9.8 (Durban 4.9 + AmaZulu 3.9), sitting just above the threshold. AmaZulu's away record shows lower corner generation (3.9 avg), suggesting a tight match with limited attacking pressure.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\nThe critical insight is **low-scoring pattern dominance**: both teams rarely exceed 2.5 goals (20-40% frequency), making a draw with under 2.5 goals the most statistically supported outcome.\n\n---\n\n**⚠️ DISCLAIMER:** These are data-driven probability assessments, not guaranteed predictions. Match outcomes depend on form changes, injuries, tactical adjustments, and in-game events not captured in historical statistics. Use responsibly alongside other analysis."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:00"
   },
   {
     "fixture": {
@@ -9537,21 +9537,21 @@
       "over25_count": 4
     },
     "away_form": {
-      "form": "LLDLLLLDDD",
-      "home_form": "LLLDD",
-      "away_form": "LDLD",
+      "form": "LDLLLLDDDW",
+      "home_form": "LLDDW",
+      "away_form": "DLD",
       "played": 10,
-      "wins": 0,
+      "wins": 1,
       "draws": 4,
-      "losses": 6,
-      "avg_goals_scored": 0.5,
-      "avg_goals_conceded": 1.7,
+      "losses": 5,
+      "avg_goals_scored": 0.8,
+      "avg_goals_conceded": 1.8,
       "avg_corners_for": 4.4,
-      "avg_corners_against": 4.9,
-      "avg_yellows": 2.0,
+      "avg_corners_against": 5.4,
+      "avg_yellows": 2.1,
       "clean_sheets": 1,
-      "btts_count": 5,
-      "over25_count": 3
+      "btts_count": 6,
+      "over25_count": 4
     },
     "h2h": [
       {
@@ -9697,29 +9697,29 @@
     ],
     "prediction": {
       "match_result": {
-        "predict": "Draw",
+        "predict": "Away Win (TS Galaxy)",
         "confidence": "Medium",
-        "reasoning": "Golden Arrows show stability at home (4W-1D recent form) but TS Galaxy's historical dominance (4 wins in last 5 H2H) creates uncertainty. The head-to-head draw in January suggests competitive balance when these sides meet.\n\n##"
+        "reasoning": "TS Galaxy dominates the H2H record (4 wins in last 5 meetings) despite poor recent league form. However, Golden Arrows' strong home record (2W in last 5) and TS Galaxy's weak away form (1D in last 3) create conflicting signals—the historical advantage slightly outweighs current conditions.\n\n##"
       },
       "btts": {
         "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "Both teams scored in exactly 50% of their respective last 10 games (5/10 each), and this occurred in 4 of the last 5 H2H meetings. Golden Arrows concede 1.1 per game while TS Galaxy averages 0.5 goals—both capable of finding the net.\n\n##"
+        "reasoning": "Both teams scored in 5/10 Galaxy games and 5/10 Arrows games, and H2H shows 4/5 matches had both teams scoring (80%). Arrows average 0.9 goals at home; Galaxy average 1.8 conceded away, suggesting realistic offensive opportunity for both.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "Medium",
-        "reasoning": "H2H average is 2.6 goals (marginal over 2.5), but Golden Arrows' last 10 shows only 40% over 2.5 games, while TS Galaxy shows 30%. Combined defensive vulnerabilities and low scoring output suggest a tight match.\n\n##"
+        "reasoning": "H2H average is only 2.6 goals per match, and both teams' season data shows Under 2.5 in 6/10 games each. Arrows average 0.9 goals scored; Galaxy average only 0.8, indicating low-scoring tendencies across the board.\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "High",
-        "reasoning": "Golden Arrows average"
+        "reasoning": "Arrows average"
       },
-      "summary": "TS Galaxy's superior recent form against this opponent (4 wins in 5 H2H) contradicts Golden Arrows' solid home record, making a Draw the most defensible prediction with medium confidence across the market.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics provided. They are not guarantees and carry inherent uncertainty. Betting carries risk; only wager what you can afford to lose. External factors (injuries, weather, team news) not reflected in this data may significantly impact outcomes.",
-      "raw_response": "# MATCH ANALYSIS: Golden Arrows vs TS Galaxy\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw  \n**Confidence:** Medium  \n**Reasoning:** Golden Arrows show stability at home (4W-1D recent form) but TS Galaxy's historical dominance (4 wins in last 5 H2H) creates uncertainty. The head-to-head draw in January suggests competitive balance when these sides meet.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes  \n**Confidence:** Medium  \n**Reasoning:** Both teams scored in exactly 50% of their respective last 10 games (5/10 each), and this occurred in 4 of the last 5 H2H meetings. Golden Arrows concede 1.1 per game while TS Galaxy averages 0.5 goals—both capable of finding the net.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** Medium  \n**Reasoning:** H2H average is 2.6 goals (marginal over 2.5), but Golden Arrows' last 10 shows only 40% over 2.5 games, while TS Galaxy shows 30%. Combined defensive vulnerabilities and low scoring output suggest a tight match.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** High  \n**Reasoning:** Golden Arrows average 5.0 corners at home while TS Galaxy average 4.4 away—combined 9.4 corners is near the threshold. Golden Arrows' home tendency to generate corners (5.0 avg) and pressure play strongly suggests this crosses 9.5.\n\n## 5. SUMMARY\nTS Galaxy's superior recent form against this opponent (4 wins in 5 H2H) contradicts Golden Arrows' solid home record, making a Draw the most defensible prediction with medium confidence across the market.\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics provided. They are not guarantees and carry inherent uncertainty. Betting carries risk; only wager what you can afford to lose. External factors (injuries, weather, team news) not reflected in this data may significantly impact outcomes."
+      "summary": "**TS Galaxy's dominant H2H record (4 wins in 5) contradicts their poor league form, making this an upset-prone fixture where corners provide the most reliable betting angle.**\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These predictions are data-driven statistical assessments based on provided information. They are **not guarantees** of outcomes. Soccer involves unpredictable variables (injuries, tactical changes, individual performances). Use these insights responsibly and within your risk tolerance.",
+      "raw_response": "# MATCH ANALYSIS: Golden Arrows vs TS Galaxy\n**2026-05-23 | King Goodwill Zwelithini Stadium**\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Away Win (TS Galaxy)  \n**Confidence:** Medium  \n**Reasoning:** TS Galaxy dominates the H2H record (4 wins in last 5 meetings) despite poor recent league form. However, Golden Arrows' strong home record (2W in last 5) and TS Galaxy's weak away form (1D in last 3) create conflicting signals—the historical advantage slightly outweighs current conditions.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes  \n**Confidence:** Medium  \n**Reasoning:** Both teams scored in 5/10 Galaxy games and 5/10 Arrows games, and H2H shows 4/5 matches had both teams scoring (80%). Arrows average 0.9 goals at home; Galaxy average 1.8 conceded away, suggesting realistic offensive opportunity for both.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** Medium  \n**Reasoning:** H2H average is only 2.6 goals per match, and both teams' season data shows Under 2.5 in 6/10 games each. Arrows average 0.9 goals scored; Galaxy average only 0.8, indicating low-scoring tendencies across the board.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** High  \n**Reasoning:** Arrows average 5.0 corners at home; Galaxy average 5.4 corners away—combined total of 10.4 corners. Both teams generate consistent corner volume, and home advantage typically increases set-piece frequency for Arrows.\n\n## 5. SUMMARY\n**TS Galaxy's dominant H2H record (4 wins in 5) contradicts their poor league form, making this an upset-prone fixture where corners provide the most reliable betting angle.**\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These predictions are data-driven statistical assessments based on provided information. They are **not guarantees** of outcomes. Soccer involves unpredictable variables (injuries, tactical changes, individual performances). Use these insights responsibly and within your risk tolerance."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:01"
   },
   {
     "fixture": {
@@ -9912,27 +9912,27 @@
       "match_result": {
         "predict": "Home Win",
         "confidence": "Medium",
-        "reasoning": "Kaizer Chiefs are in strong form (6W in last 10) with three consecutive home wins and a superior goal differential (+1.0 vs -1.1). However, H2H history shows three draws in five meetings, suggesting Chippa can frustrate them.\n\n##"
+        "reasoning": "Kaizer Chiefs show strong form (6W-3D-1L last 10) with 3 consecutive home wins and a superior goal differential (+1.0 vs -1.1). However, H2H history is competitive (1 win, 3 draws, 1 loss) with low-scoring outcomes, tempering confidence.\n\n##"
       },
       "btts": {
-        "predict": "No",
+        "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "Despite Chippa scoring in 8/10 recent games, Kaizer Chiefs have conceded just 0.6 goals per game with 5 clean sheets in their last 10. The H2H average of only 0.6 total goals indicates these teams produce low-scoring encounters.\n\n##"
+        "reasoning": "Chippa scored in 8/10 recent games despite poor form, while Chiefs concede 0.6 per game (vulnerable to breaches). However, Chiefs' 5 clean sheets in 10 and Chippa's 2 clean sheets create conflicting signals.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "High",
-        "reasoning": "This is the strongest signal in the data—H2H meetings average just 0.6 goals per game with three 0-0 draws. Only 2/10 of Chiefs' recent games exceeded 2.5 goals, and their defensive record at home is exceptional.\n\n##"
+        "reasoning": "H2H averaging just 0.6 goals is the dominant indicator—3 of last 5 meetings ended 0-0. Despite Chippa's high Over 2.5 rate (6/10), Chiefs' defensive strength (5 clean sheets, 0.6 conceded avg) and low-scoring H2H pattern strongly suggest a tight match.\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
-        "confidence": "Medium",
-        "reasoning": "Combined corner averages (Chiefs 4.3 + Chippa 4.7 = 9.0) sit just below the threshold. Chippa's away record shows"
+        "confidence": "High",
+        "reasoning": "Combined corner averages total 8.5 (4.3 + 4.2), but Chippa's away games see elevated corners against ("
       },
-      "summary": "**Key Driver:** The exceptional defensive record of Kaizer Chiefs at home (0.6 goals conceded, 5 clean sheets) combined with historically low-scoring H2H clashes (0.6 avg goals) strongly indicates a tight, defensive contest under 2.5 goals.\n\n════════════════════════════════════════\n\n**Disclaimer:** These are data-driven assessments based on historical patterns and current form. Soccer outcomes are inherently unpredictable; past performance does not guarantee future results. Use this analysis as one input among many for informed decision-making.",
-      "raw_response": "# KAIZER CHIEFS vs CHIPPA UNITED | Match Analysis\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Home Win  \n**Confidence:** Medium  \n**Reasoning:** Kaizer Chiefs are in strong form (6W in last 10) with three consecutive home wins and a superior goal differential (+1.0 vs -1.1). However, H2H history shows three draws in five meetings, suggesting Chippa can frustrate them.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No  \n**Confidence:** Medium  \n**Reasoning:** Despite Chippa scoring in 8/10 recent games, Kaizer Chiefs have conceded just 0.6 goals per game with 5 clean sheets in their last 10. The H2H average of only 0.6 total goals indicates these teams produce low-scoring encounters.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** High  \n**Reasoning:** This is the strongest signal in the data—H2H meetings average just 0.6 goals per game with three 0-0 draws. Only 2/10 of Chiefs' recent games exceeded 2.5 goals, and their defensive record at home is exceptional.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** Medium  \n**Reasoning:** Combined corner averages (Chiefs 4.3 + Chippa 4.7 = 9.0) sit just below the threshold. Chippa's away record shows 5.9 corners against them, suggesting the matchup will generate sufficient attacking play to marginally exceed 9.5.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\n**Key Driver:** The exceptional defensive record of Kaizer Chiefs at home (0.6 goals conceded, 5 clean sheets) combined with historically low-scoring H2H clashes (0.6 avg goals) strongly indicates a tight, defensive contest under 2.5 goals.\n\n════════════════════════════════════════\n\n**Disclaimer:** These are data-driven assessments based on historical patterns and current form. Soccer outcomes are inherently unpredictable; past performance does not guarantee future results. Use this analysis as one input among many for informed decision-making."
+      "summary": "**The critical data point:** Kaizer Chiefs' dominant home record (3 consecutive wins, 5 clean sheets in 10) against Chippa's poor away form (D-L-L-L-D) suggests a Chiefs victory, but the H2H history of low-scoring draws (0.6 avg goals, three 0-0 results) indicates a tight 1-0 or 0-0 outcome rather than an open match.\n\n════════════════════════════════════════\n\n**Disclaimer:** These are data-driven assessments based on provided statistics, not guaranteed predictions. Actual match outcomes are influenced by team news, tactics, injuries, and in-game dynamics not captured here.",
+      "raw_response": "# KAIZER CHIEFS vs CHIPPA UNITED - MATCH ANALYSIS\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Home Win\n**Confidence:** Medium\n**Reasoning:** Kaizer Chiefs show strong form (6W-3D-1L last 10) with 3 consecutive home wins and a superior goal differential (+1.0 vs -1.1). However, H2H history is competitive (1 win, 3 draws, 1 loss) with low-scoring outcomes, tempering confidence.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes\n**Confidence:** Medium\n**Reasoning:** Chippa scored in 8/10 recent games despite poor form, while Chiefs concede 0.6 per game (vulnerable to breaches). However, Chiefs' 5 clean sheets in 10 and Chippa's 2 clean sheets create conflicting signals.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** H2H averaging just 0.6 goals is the dominant indicator—3 of last 5 meetings ended 0-0. Despite Chippa's high Over 2.5 rate (6/10), Chiefs' defensive strength (5 clean sheets, 0.6 conceded avg) and low-scoring H2H pattern strongly suggest a tight match.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** High\n**Reasoning:** Combined corner averages total 8.5 (4.3 + 4.2), but Chippa's away games see elevated corners against (5.9 avg), and Chiefs' home corners (4.3) support a 9+ total. Both teams average 4+ corners, pushing toward double figures.\n\n## 5. SUMMARY\n**The critical data point:** Kaizer Chiefs' dominant home record (3 consecutive wins, 5 clean sheets in 10) against Chippa's poor away form (D-L-L-L-D) suggests a Chiefs victory, but the H2H history of low-scoring draws (0.6 avg goals, three 0-0 results) indicates a tight 1-0 or 0-0 outcome rather than an open match.\n\n════════════════════════════════════════\n\n**Disclaimer:** These are data-driven assessments based on provided statistics, not guaranteed predictions. Actual match outcomes are influenced by team news, tactics, injuries, and in-game dynamics not captured here."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:01"
   },
   {
     "fixture": {
@@ -10069,27 +10069,27 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "H2H record is perfectly balanced (1-1-1), and both teams show defensive stability with 3-4 clean sheets in their last 10 games. Magesi's poor home form (1W-1D-3L) is offset by Richards Bay's equally weak away record (1W-1D-3L), suggesting an evenly contested low-scoring affair.\n\n---\n\n##"
+        "reasoning": "Head-to-head shows perfect balance (1W-1D-1L for Magesi), and Richards Bay's away record is poor (1W-4 games) but defensive strength (0.9 goals conceded) matches Magesi's inconsistency at home (2W-5L last 5). Expect a cautious, low-scoring encounter.\n\n##"
       },
       "btts": {
         "predict": "No",
         "confidence": "Medium",
-        "reasoning": "Both teams scored in only 4/10 games for each side (40% frequency). Richards Bay's defensive solidity (0.9 goals conceded avg) and Magesi's modest attack (1.2 goals scored avg) suggest a tight match with limited scoring opportunities.\n\n---\n\n##"
+        "reasoning": "Richards Bay have scored in only 4/10 games (0.8 avg) and keep clean sheets in 40% of matches. Magesi's home form is fragile with only 3 clean sheets in 10, but Richards Bay's defensive solidity (0.9 conceded) suggests they'll likely frustrate the hosts.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "High",
-        "reasoning": "H2H average is just 0.67 goals per game, and Richards Bay's away matches average only 0.8 goals scored. While Magesi's home record shows over 2.5 in 6/10 games, this is heavily skewed by their attacking form against weaker opposition; Richards Bay's defensive discipline combined with their low-scoring away pattern strongly suggests a constrained match.\n\n---\n\n##"
+        "reasoning": "This is the strongest signal in the data. Richards Bay average just 0.8 goals scored and have seen Over 2.5 in only 3/10 games. H2H average is just 0.67 goals per match, indicating consistent low-scoring meetings between these teams.\n\n##"
       },
       "total_corners": {
-        "predict": "Over 9.5",
+        "predict": "Under 9.5",
         "confidence": "Medium",
-        "reasoning": "Combined corner average = 8.6 corners per match (4.0 + 4.7 for Magesi; 4.6 +"
+        "reasoning": "Combined average corners = 8.6 (4.0 + 4.6), suggesting the total sits near the line. Richards Bay's away record shows defensive discipline, and Magesi average only 4.0 corners at home—limiting attacking opportunities typically correlates with fewer set pieces.\n\n##"
       },
-      "summary": "**Key driver:** Richards Bay's exceptional away defensive record (0.8 goals conceded, 4 clean sheets in 10) combined with a historically low-scoring H2H pattern (0.67 avg goals) points to an Under 2.5 goals outcome with high confidence.\n\n---\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed predictions. Match outcomes depend on live factors including team form, injuries, and tactical adjustments.",
-      "raw_response": "# MAGESI FC vs RICHARDS BAY - MATCH ANALYSIS\n**2026-05-23 | Seshego Stadium**\n\n---\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** H2H record is perfectly balanced (1-1-1), and both teams show defensive stability with 3-4 clean sheets in their last 10 games. Magesi's poor home form (1W-1D-3L) is offset by Richards Bay's equally weak away record (1W-1D-3L), suggesting an evenly contested low-scoring affair.\n\n---\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Both teams scored in only 4/10 games for each side (40% frequency). Richards Bay's defensive solidity (0.9 goals conceded avg) and Magesi's modest attack (1.2 goals scored avg) suggest a tight match with limited scoring opportunities.\n\n---\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** H2H average is just 0.67 goals per game, and Richards Bay's away matches average only 0.8 goals scored. While Magesi's home record shows over 2.5 in 6/10 games, this is heavily skewed by their attacking form against weaker opposition; Richards Bay's defensive discipline combined with their low-scoring away pattern strongly suggests a constrained match.\n\n---\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Combined corner average = 8.6 corners per match (4.0 + 4.7 for Magesi; 4.6 + 5.9 for Richards Bay). While this sits just below 9.5, Magesi's home average of 4.7 corners against suggests sustained pressure, pushing the combined total likely over the threshold.\n\n---\n\n## 5. SUMMARY\n**Key driver:** Richards Bay's exceptional away defensive record (0.8 goals conceded, 4 clean sheets in 10) combined with a historically low-scoring H2H pattern (0.67 avg goals) points to an Under 2.5 goals outcome with high confidence.\n\n---\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed predictions. Match outcomes depend on live factors including team form, injuries, and tactical adjustments."
+      "summary": "**Richards Bay's exceptional defensive record (0.9 goals conceded, 40% clean sheets) combined with their historically low-scoring H2H encounters (0.67 avg goals) makes Under 2.5 goals the most data-supported prediction.**\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Match results depend on numerous variables including team form, injuries, motivation, and in-game events that statistics cannot fully capture.",
+      "raw_response": "# MAGESI FC vs RICHARDS BAY - BETTING ANALYSIS\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** Head-to-head shows perfect balance (1W-1D-1L for Magesi), and Richards Bay's away record is poor (1W-4 games) but defensive strength (0.9 goals conceded) matches Magesi's inconsistency at home (2W-5L last 5). Expect a cautious, low-scoring encounter.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Richards Bay have scored in only 4/10 games (0.8 avg) and keep clean sheets in 40% of matches. Magesi's home form is fragile with only 3 clean sheets in 10, but Richards Bay's defensive solidity (0.9 conceded) suggests they'll likely frustrate the hosts.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** This is the strongest signal in the data. Richards Bay average just 0.8 goals scored and have seen Over 2.5 in only 3/10 games. H2H average is just 0.67 goals per match, indicating consistent low-scoring meetings between these teams.\n\n## 4. TOTAL CORNERS\n**Predict:** Under 9.5\n**Confidence:** Medium\n**Reasoning:** Combined average corners = 8.6 (4.0 + 4.6), suggesting the total sits near the line. Richards Bay's away record shows defensive discipline, and Magesi average only 4.0 corners at home—limiting attacking opportunities typically correlates with fewer set pieces.\n\n## 5. SUMMARY\n**Richards Bay's exceptional defensive record (0.9 goals conceded, 40% clean sheets) combined with their historically low-scoring H2H encounters (0.67 avg goals) makes Under 2.5 goals the most data-supported prediction.**\n\n════════════════════════════════════════\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Match results depend on numerous variables including team form, injuries, motivation, and in-game events that statistics cannot fully capture."
     },
-    "analysed_at": "2026-05-11 10:48"
+    "analysed_at": "2026-05-13 04:01"
   },
   {
     "fixture": {
@@ -10282,27 +10282,27 @@
       "match_result": {
         "predict": "Away Win",
         "confidence": "Medium",
-        "reasoning": "Stellenbosch has dominated the H2H record (3W-2D-0L) and maintains superior away stability with consistent draws. Marumo's home form is alarming—5 consecutive games without a win (0W-4D-1L)—and they average only 0.8 goals scored at home.\n\n##"
+        "reasoning": "Stellenbosch has won 3 of their last 5 H2H meetings and maintains a superior away record (DLDLD) compared to Marumo's poor home form (LDDDD). However, both teams' recent inconsistency limits certainty.\n\n---\n\n###"
       },
       "btts": {
         "predict": "Yes",
         "confidence": "Medium",
-        "reasoning": "Both teams show BTTS in 6/10 recent games (60% frequency each). Despite low-scoring trends, Marumo concedes 1.3 goals per game at home while Stellenbosch averages 0.9 goals on the road—both viable scoring opportunities.\n\n##"
+        "reasoning": "Both teams recorded BTTS in 6/10 recent games. Marumo concedes 1.3 goals per game while Stellenbosch averages 0.9 goals scored, suggesting Stellenbosch can breach the home defence.\n\n---\n\n###"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "High",
-        "reasoning": "H2H averages only 1.0 total goals per match, and only 4/10 of Marumo's games and 3/10 of Stellenbosch's games exceeded 2.5 goals. Both teams display low-scoring patterns, particularly Stellenbosch away (concedes just 1.0 per game).\n\n##"
+        "reasoning": "H2H average is just 1.0 goals per match, and recent form shows only 4/10 (Marumo) and 3/10 (Stellenbosch) games exceeded 2.5 goals. Combined low-scoring tendency is the strongest indicator here.\n\n---\n\n###"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "Medium",
-        "reasoning": "Combined corner averages are 9.5 (Marumo 4.4 + Stellenbosch"
+        "reasoning": "Marumo averages 4.4 corners for + Stellenbosch's"
       },
-      "summary": "**Key Data Point:** Stellenbosch's perfect recent H2H record (3 wins in last 5) combined with Marumo's complete home drought (0 wins in last 5) is the dominant factor suggesting an away victory in a low-scoring contest.\n\n════════════════════════════════════════\n\n**⚠️ DISCLAIMER:** These are statistical assessments based on provided data only and should not be considered guarantees. Actual match outcomes depend on countless unmeasured variables including team form changes, injuries, tactical adjustments, and in-match momentum.",
-      "raw_response": "# MATCH ANALYSIS: Marumo Gallants vs Stellenbosch\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Away Win\n**Confidence:** Medium\n**Reasoning:** Stellenbosch has dominated the H2H record (3W-2D-0L) and maintains superior away stability with consistent draws. Marumo's home form is alarming—5 consecutive games without a win (0W-4D-1L)—and they average only 0.8 goals scored at home.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** Yes\n**Confidence:** Medium\n**Reasoning:** Both teams show BTTS in 6/10 recent games (60% frequency each). Despite low-scoring trends, Marumo concedes 1.3 goals per game at home while Stellenbosch averages 0.9 goals on the road—both viable scoring opportunities.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** H2H averages only 1.0 total goals per match, and only 4/10 of Marumo's games and 3/10 of Stellenbosch's games exceeded 2.5 goals. Both teams display low-scoring patterns, particularly Stellenbosch away (concedes just 1.0 per game).\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Combined corner averages are 9.5 (Marumo 4.4 + Stellenbosch 5.1), sitting right at the threshold. Stellenbosch's superior corner generation (5.1 for) when away provides the edge needed to exceed this line marginally.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\n**Key Data Point:** Stellenbosch's perfect recent H2H record (3 wins in last 5) combined with Marumo's complete home drought (0 wins in last 5) is the dominant factor suggesting an away victory in a low-scoring contest.\n\n════════════════════════════════════════\n\n**⚠️ DISCLAIMER:** These are statistical assessments based on provided data only and should not be considered guarantees. Actual match outcomes depend on countless unmeasured variables including team form changes, injuries, tactical adjustments, and in-match momentum."
+      "summary": "**Key Insight:** The H2H pattern of low-scoring encounters (1.0 avg goals) combined with Stellenbosch's dominant head-to-head record (3W-2D) strongly suggests a narrow away victory with limited goal output.\n\n---\n\n### BETTING RECOMMENDATION PROFILE\n- **Safest play:** Under 2.5 Goals (High confidence)\n- **Value play:** Away Win + Under 2.5 (combination reflects H2H trends)\n- **Avoid:** Over 2.5 Goals (contradicts all key metrics)",
+      "raw_response": "# MARUMO GALLANTS vs STELLENBOSCH\n## Data-Driven Match Analysis\n\n**DISCLAIMER:** These are statistical assessments, not guaranteed predictions.\n\n---\n\n### 1. MATCH RESULT\n**Predict:** Away Win  \n**Confidence:** Medium  \n**Reasoning:** Stellenbosch has won 3 of their last 5 H2H meetings and maintains a superior away record (DLDLD) compared to Marumo's poor home form (LDDDD). However, both teams' recent inconsistency limits certainty.\n\n---\n\n### 2. BOTH TEAMS TO SCORE\n**Predict:** Yes  \n**Confidence:** Medium  \n**Reasoning:** Both teams recorded BTTS in 6/10 recent games. Marumo concedes 1.3 goals per game while Stellenbosch averages 0.9 goals scored, suggesting Stellenbosch can breach the home defence.\n\n---\n\n### 3. TOTAL GOALS\n**Predict:** Under 2.5  \n**Confidence:** High  \n**Reasoning:** H2H average is just 1.0 goals per match, and recent form shows only 4/10 (Marumo) and 3/10 (Stellenbosch) games exceeded 2.5 goals. Combined low-scoring tendency is the strongest indicator here.\n\n---\n\n### 4. TOTAL CORNERS\n**Predict:** Over 9.5  \n**Confidence:** Medium  \n**Reasoning:** Marumo averages 4.4 corners for + Stellenbosch's 5.1 = 9.5 combined. Stellenbosch's superior corner average (5.1) away from home and Marumo's defensive struggles suggest adequate corner opportunities.\n\n---\n\n### 5. SUMMARY\n**Key Insight:** The H2H pattern of low-scoring encounters (1.0 avg goals) combined with Stellenbosch's dominant head-to-head record (3W-2D) strongly suggests a narrow away victory with limited goal output.\n\n---\n\n### BETTING RECOMMENDATION PROFILE\n- **Safest play:** Under 2.5 Goals (High confidence)\n- **Value play:** Away Win + Under 2.5 (combination reflects H2H trends)\n- **Avoid:** Over 2.5 Goals (contradicts all key metrics)"
     },
-    "analysed_at": "2026-05-11 10:49"
+    "analysed_at": "2026-05-13 04:01"
   },
   {
     "fixture": {
@@ -10383,27 +10383,27 @@
       "match_result": {
         "predict": "Away Win",
         "confidence": "High",
-        "reasoning": ""
+        "reasoning": "Orlando Pirates are in exceptional form (7W-3D in last 10) with 6 clean sheets, while Orbit College have won just 2 of their last 10 games with a poor home record (1D-4L). Pirates' superior offensive output ("
       },
       "btts": {
         "predict": "No",
         "confidence": "Medium",
-        "reasoning": ""
+        "reasoning": "Orlando Pirates have conceded just 0.5 goals per game with 6 clean sheets in their last 10, suggesting strong defensive discipline. Orbit College average only 0.7 goals scored, making it unlikely they breach Pirates' defence.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "Medium",
-        "reasoning": ""
+        "reasoning": "While Pirates average 2.7 goals, Orbit College's weak attacking (0.7 goals/game) will limit total output. The H2H average of just 1.0 goals and Pirates' 6 clean sheets suggest a low-scoring contest is probable.\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "High",
-        "reasoning": ""
+        "reasoning": "Orlando Pirates average 8.3 corners per game (well above 9.5 threshold even accounting for variance), and Orbit College concede"
       },
-      "summary": "**Orlando Pirates' elite away form (4W-1D), combined with Orbit College's home struggles (0W-5D-L) and exceptional defensive record (0.5 goals conceded), creates a clear away win scenario.**\n\n---\n\n**DISCLAIMER:** These predictions are data-driven assessments based on historical performance statistics. They are not guarantees. Injuries, tactical adjustments, weather, and unforeseen circumstances can significantly impact match outcomes. Betting carries risk—wager responsibly.",
-      "raw_response": "# MATCH ANALYSIS: Orbit College vs Orlando Pirates\n**2026-05-23 | Royal Bafokeng Stadium**\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict: Away Win**\n**Confidence: High**\n\nOrlando Pirates are in exceptional form (7W-3D in last 10) with a perfect away record (4W-1D), while Orbit College have won only 2 of their last 10 matches with a poor home record (0W-5D-L). Pirates' defensive strength (0.5 goals conceded average) significantly outmatches Orbit's attacking output (0.7 goals scored average).\n\n## 2. BOTH TEAMS TO SCORE\n**Predict: No**\n**Confidence: Medium**\n\nOrlando Pirates keep clean sheets in 60% of games (6/10), and Orbit College scores in only 50% of matches (5/10). However, Pirates conceded in 4/10 games, suggesting this isn't certain—hence medium rather than high confidence.\n\n## 3. TOTAL GOALS\n**Predict: Under 2.5**\n**Confidence: Medium**\n\nCombined averages suggest ~3.2 goals per match, but Pirates' dominant defensive record (0.5 conceded) and Orbit's weak attacking threat (0.7 scored) pull this downward. The H2H meeting ended 1-0, reinforcing a low-scoring pattern between these sides.\n\n## 4. TOTAL CORNERS\n**Predict: Over 9.5**\n**Confidence: High**\n\nOrlando Pirates average 8.3 corners for per game, significantly higher than Orbit College's 5.2 average. Pirates' attacking dominance and Orbit's defensive vulnerability (conceding 5.2 corners average) strongly supports this prediction, with a combined average of ~13.5 corners.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\n**Orlando Pirates' elite away form (4W-1D), combined with Orbit College's home struggles (0W-5D-L) and exceptional defensive record (0.5 goals conceded), creates a clear away win scenario.**\n\n---\n\n**DISCLAIMER:** These predictions are data-driven assessments based on historical performance statistics. They are not guarantees. Injuries, tactical adjustments, weather, and unforeseen circumstances can significantly impact match outcomes. Betting carries risk—wager responsibly."
+      "summary": "Orlando Pirates' dominant recent form (7 wins in 10) combined with elite defensive metrics (6 clean sheets, 0.5 goals conceded/game) versus Orbit College's struggling home record makes this a high-confidence away victory prediction.\n\n---\n\n**DISCLAIMER:** These are data-driven statistical assessments based on provided match information. They represent probabilistic outcomes, not guarantees. Actual match results depend on numerous variables including team selection, tactical adjustments, injuries, and in-game events not captured in historical data.",
+      "raw_response": "# MATCH ANALYSIS: Orbit College vs Orlando Pirates\n\n## 1. MATCH RESULT\n**Predict:** Away Win\n**Confidence:** High\n**Reasoning:** Orlando Pirates are in exceptional form (7W-3D in last 10) with 6 clean sheets, while Orbit College have won just 2 of their last 10 games with a poor home record (1D-4L). Pirates' superior offensive output (2.7 vs 0.7 goals/game) and defensive solidity heavily favour the visitors.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Orlando Pirates have conceded just 0.5 goals per game with 6 clean sheets in their last 10, suggesting strong defensive discipline. Orbit College average only 0.7 goals scored, making it unlikely they breach Pirates' defence.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** Medium\n**Reasoning:** While Pirates average 2.7 goals, Orbit College's weak attacking (0.7 goals/game) will limit total output. The H2H average of just 1.0 goals and Pirates' 6 clean sheets suggest a low-scoring contest is probable.\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** High\n**Reasoning:** Orlando Pirates average 8.3 corners per game (well above 9.5 threshold even accounting for variance), and Orbit College concede 5.2 corners per game. The combination strongly suggests double-digit corners.\n\n## 5. SUMMARY\nOrlando Pirates' dominant recent form (7 wins in 10) combined with elite defensive metrics (6 clean sheets, 0.5 goals conceded/game) versus Orbit College's struggling home record makes this a high-confidence away victory prediction.\n\n---\n\n**DISCLAIMER:** These are data-driven statistical assessments based on provided match information. They represent probabilistic outcomes, not guarantees. Actual match results depend on numerous variables including team selection, tactical adjustments, injuries, and in-game events not captured in historical data."
     },
-    "analysed_at": "2026-05-11 10:49"
+    "analysed_at": "2026-05-13 04:01"
   },
   {
     "fixture": {
@@ -10484,26 +10484,26 @@
       "match_result": {
         "predict": "Draw",
         "confidence": "Medium",
-        "reasoning": "Siwelele's 6 draws in their last 10 games (60% draw rate) and their defensive strength (5 clean sheets) suggest a cautious approach, while Sekhukhune's mixed home form (DWDL) indicates inconsistency. Siwelele's 1-0 away win in their last H2H meeting reinforces their defensive solidity.\n\n---\n\n##"
+        "reasoning": "Siwelele has drawn 6 of their last 10 games and won the H2H 1-0, but Sekhukhune at home shows mixed form (1W-1D-2L). Both teams average ~1.0-1.1 goals scored, suggesting a low-scoring, deadlocked affair.\n\n##"
       },
       "btts": {
         "predict": "No",
         "confidence": "Medium",
-        "reasoning": "Both teams have low scoring averages (Sekhukhune 1.0, Siwelele 1.1 goals per game), and BTTS occurred in only 40% of Siwelele's recent matches. Siwelele's exceptional clean sheet record (5/10) suggests they're defensively organized and unlikely to concede easily.\n\n---\n\n##"
+        "reasoning": "Only 40% of Siwelele's last 10 games saw both teams score, and Sekhukhune's low home average (1.0 goals) combined with Siwelele's strong defensive record (5 clean sheets in 10) suggests a low-scoring, likely one-sided result.\n\n##"
       },
       "total_goals": {
         "predict": "Under 2.5",
         "confidence": "High",
-        "reasoning": "Combined average goals per game is just 2.1 (1.0 + 1.1), with only 40% of matches exceeding 2.5 goals across both teams' recent form. The H2H average was 1.0 goals, confirming a historically low-scoring fixture between these sides.\n\n---\n\n##"
+        "reasoning": "Combined average of 2.1 goals per match favors Under 2.5, reinforced by only 40% of Sekhukhune's and 20% of Siwelele's games exceeding 2.5 goals. The H2H fixture ended 1-0 (1 total goal).\n\n##"
       },
       "total_corners": {
         "predict": "Over 9.5",
         "confidence": "Medium",
-        "reasoning": "Combined average corners is 9.3 (3.9 + 4.4 for Sekhukhune at home + Siwelele's average), slightly below the line but within margin given Siwelele concedes"
+        "reasoning": "Sekhukhune average 3.9 corners at home while Siwelele average 4.4 corners away, totaling 8.3—marginally below the threshold but Siwelele concede"
       },
-      "summary": "**Key Driver:** Siwelele's defensive resilience (5 clean sheets in 10 games) and high draw propensity (60%) combined with low-scoring trends in both teams' recent form points toward a low-scoring stalemate.\n\n---\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Actual match results depend on numerous variables including team form, injuries, tactical adjustments, and in-game circumstances.",
-      "raw_response": "# SEKHUKHUNE UNITED vs SIWELELE - MATCH ANALYSIS\n\n**2026-05-23 | Peter Mokaba Stadium**\n\n---\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** Siwelele's 6 draws in their last 10 games (60% draw rate) and their defensive strength (5 clean sheets) suggest a cautious approach, while Sekhukhune's mixed home form (DWDL) indicates inconsistency. Siwelele's 1-0 away win in their last H2H meeting reinforces their defensive solidity.\n\n---\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Both teams have low scoring averages (Sekhukhune 1.0, Siwelele 1.1 goals per game), and BTTS occurred in only 40% of Siwelele's recent matches. Siwelele's exceptional clean sheet record (5/10) suggests they're defensively organized and unlikely to concede easily.\n\n---\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** Combined average goals per game is just 2.1 (1.0 + 1.1), with only 40% of matches exceeding 2.5 goals across both teams' recent form. The H2H average was 1.0 goals, confirming a historically low-scoring fixture between these sides.\n\n---\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Combined average corners is 9.3 (3.9 + 4.4 for Sekhukhune at home + Siwelele's average), slightly below the line but within margin given Siwelele concedes 5.8 corners on average away, suggesting attacking intent from Sekhukhune.\n\n---\n\n## 5. SUMMARY\n**Key Driver:** Siwelele's defensive resilience (5 clean sheets in 10 games) and high draw propensity (60%) combined with low-scoring trends in both teams' recent form points toward a low-scoring stalemate.\n\n---\n\n**DISCLAIMER:** These are data-driven assessments based on historical statistics, not guaranteed outcomes. Actual match results depend on numerous variables including team form, injuries, tactical adjustments, and in-game circumstances."
+      "summary": "**Key Driver:** Siwelele's exceptional defensive record (5 clean sheets, 1.2 goals conceded) combined with Sekhukhune's weak home attack (1.0 goals scored) strongly suggests a low-scoring, low-scoring outcome heavily favoring Under 2.5 goals.\n\n---\n\n**BETTING MARKETS SUMMARY:**\n- **Result:** Draw (Medium confidence)\n- **BTTS:** No (Medium confidence)\n- **Goals:** Under 2.5 (High confidence) ✓ *Strongest pick*\n- **Corners:** Over 9.5 (Medium confidence)",
+      "raw_response": "# SEKHUKHUNE UNITED vs SIWELELE | Data-Driven Analysis\n\n**DISCLAIMER: These are statistical assessments, not guarantees. Betting involves risk.**\n\n════════════════════════════════════════\n\n## 1. MATCH RESULT\n**Predict:** Draw\n**Confidence:** Medium\n**Reasoning:** Siwelele has drawn 6 of their last 10 games and won the H2H 1-0, but Sekhukhune at home shows mixed form (1W-1D-2L). Both teams average ~1.0-1.1 goals scored, suggesting a low-scoring, deadlocked affair.\n\n## 2. BOTH TEAMS TO SCORE\n**Predict:** No\n**Confidence:** Medium\n**Reasoning:** Only 40% of Siwelele's last 10 games saw both teams score, and Sekhukhune's low home average (1.0 goals) combined with Siwelele's strong defensive record (5 clean sheets in 10) suggests a low-scoring, likely one-sided result.\n\n## 3. TOTAL GOALS\n**Predict:** Under 2.5\n**Confidence:** High\n**Reasoning:** Combined average of 2.1 goals per match favors Under 2.5, reinforced by only 40% of Sekhukhune's and 20% of Siwelele's games exceeding 2.5 goals. The H2H fixture ended 1-0 (1 total goal).\n\n## 4. TOTAL CORNERS\n**Predict:** Over 9.5\n**Confidence:** Medium\n**Reasoning:** Sekhukhune average 3.9 corners at home while Siwelele average 4.4 corners away, totaling 8.3—marginally below the threshold but Siwelele concede 5.8 corners per game, which adds cushion for modest overrun to 10+ corners.\n\n════════════════════════════════════════\n\n## 5. SUMMARY\n**Key Driver:** Siwelele's exceptional defensive record (5 clean sheets, 1.2 goals conceded) combined with Sekhukhune's weak home attack (1.0 goals scored) strongly suggests a low-scoring, low-scoring outcome heavily favoring Under 2.5 goals.\n\n---\n\n**BETTING MARKETS SUMMARY:**\n- **Result:** Draw (Medium confidence)\n- **BTTS:** No (Medium confidence)\n- **Goals:** Under 2.5 (High confidence) ✓ *Strongest pick*\n- **Corners:** Over 9.5 (Medium confidence)"
     },
-    "analysed_at": "2026-05-11 10:49"
+    "analysed_at": "2026-05-13 04:01"
   }
 ]
